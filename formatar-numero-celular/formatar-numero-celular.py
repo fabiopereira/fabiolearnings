@@ -3,18 +3,31 @@ from phonenumbers import PhoneNumberFormat, parse as phone_parse, format_number 
 from io import StringIO
 
 numeros = """ColNum
-+5585988001677
-85 85460364
-85 99221-8211
-(85) 9862-64842
-(85)987989342
-85 9852-36542
-85 9971 19741
-85986124985
-85 985374355
-85988881389
-85999202078
+551143247524
+5541998264638
+11 98189 0214
+43999763219
+54999730540
+43999335571
+43 991655705
+11965209887
+71991011908
+18981311292
+15981209898
+41999628750
+41 996230017 
+45991350505
+91992656484
+46991194527
+27-988197561 
+46 99919-1483 
+41999905553
 """
+
+def formatar_numero(n):
+    n = phone_format(phone_parse(n, 'BR'), PhoneNumberFormat.E164)
+    n = adicionar_nove_ao_celular(n)
+    return n
 
 def adicionar_nove_ao_celular(numero):
     # Verifica se o número já possui um "9" após o DDD
@@ -32,7 +45,6 @@ def adicionar_nove_ao_celular(numero):
 
 df = pd.read_csv(StringIO(numeros), sep=';')
 
-df['ColNum'] = df['ColNum'].apply(lambda n: phone_format(phone_parse(n, 'BR'), PhoneNumberFormat.E164))
-df['ColNum'] = df['ColNum'].apply(lambda n: adicionar_nove_ao_celular(n))
+df['ColNum_Formatado'] = df['ColNum'].apply(lambda n: formatar_numero(n))
 
 print(df)
