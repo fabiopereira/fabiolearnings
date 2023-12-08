@@ -1,12 +1,35 @@
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import pandas as pd
+
+def send_emails_to_each_row(row):
+    variables = {
+        'Email': row['Email'], 
+        'Name': row['Name'], 
+        'DigitalWeightInfoKilos': row['DigitalWeightInfoKilos'], 
+        'Scale': row['Scale'], 
+        'Scale1Name': row['Scale1Name'], 
+        'Scale2Name': row['Scale2Name'], 
+        'WeightMessage': row['WeightMessage']
+        }
+    
+    name = row['Name']
+    email = row['Email']
+    subject = f"Hey {name}, your result from the Infobesity scale"
+    template_path = 'sending-emails/infobesity-book-scale-template.txt'
+    message = generate_string_from_template(template_path, variables)
+    to_emails = [email]
+    print("Sending email:")
+    send_email(subject, message, to_emails)
+    print(variables)
+
 
 def send_email(subject, message, to_email):
     # Sender's email and password (use an App Password for Gmail)
     # AppPwd: infobesity-scale-book
     sender_email = "fabiopereira.me@gmail.com"
-    sender_password = ""
+    sender_password = "umqw qsxw yaxn mkjw"
 
     # Create the email message
     msg = MIMEMultipart()
@@ -41,15 +64,11 @@ def generate_string_from_template(template_path, variables):
 
     return merged_text
 
-# Example usage
-template_path = 'sending-emails/infobesity-book-scale-template.txt'
-variables = {'name': 'Mary', 'weight': 45, 'email': 'john@example.com'}
-result_string = generate_string_from_template(template_path, variables)
-# Print the generated string
-# print(result_string)
-# Example usage
-subject = "Your result from Infobesity Digital Weight Scale"
-message = result_string
-to_emails = ["fabiopereira.me@gmail.com", "contato@fabionudge.com"]
 
-send_email(subject, message, to_emails)
+df = pd.read_csv('sending-emails/infobesity-book-scale-TOSEND.csv')
+for index, row in df.iterrows():
+    try:
+        send_emails_to_each_row(row)
+    except Exception as e:
+        print(f"An exception occurred: {e}")
+

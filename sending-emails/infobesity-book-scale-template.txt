@@ -1,6 +1,8 @@
-Hi {name}, Fabio Nudge Pereira here. 
+Hi {Name}, how's it going? It is Fabio Nudge Pereira here.
 Thanks for steping on the Digital Weight Scale to discover if you suffer from Infobesity. 
-According to your responses, your weight is {weight}
+According to your responses, your weight is {DigitalWeightInfoKilos}
+
+{WeightMessage}
 
 For more details, please see the scale details here: 
 https://infobesidade.com.br/scale-book 
