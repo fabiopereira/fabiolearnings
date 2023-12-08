@@ -29,7 +29,7 @@ def send_email(subject, message, to_email):
     # Sender's email and password (use an App Password for Gmail)
     # AppPwd: infobesity-scale-book
     sender_email = "fabiopereira.me@gmail.com"
-    sender_password = "umqw qsxw yaxn mkjw"
+    sender_password = "PWD"
 
     # Create the email message
     msg = MIMEMultipart()
