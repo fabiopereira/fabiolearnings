@@ -28,7 +28,7 @@ def send_emails_to_each_row(row):
 def send_email(subject, message, to_email):
     # Sender's email and password (use an App Password for Gmail)
     # AppPwd: infobesity-scale-book
-    sender_email = "fabiopereira.me@gmail.com"
+    sender_email = "meu email principal fp at gmail"
     sender_password = "procure no email https://mail.google.com/mail/u/0/#search/label%3Aad+sending-emails+python"
 
     # Create the email message
