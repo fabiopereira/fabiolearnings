@@ -1,0 +1,1539 @@
+﻿Este é o texto completo do livro Consciência digital: As 5 habilidades para ter autocontrole, foco e segurança na era digital Capa comum – Edição padrão, 7 outubro 2019
+por Fabio Pereira (Autor)
+
+Cada vez mais o mundo físico e o digital se misturam. Sabia que você toma, em média, 35 mil decisões por dia? Então, a todo momento somos influenciados pelo que vivemos digitalmente e, consequentemente, tomamos decisões de forma impulsiva, sem pensar. Porém, como evitar a manipulação da Inteligência Artificial e adquirir autocontrole, foco e segurança nos dias de hoje? Desenvolvendo a sua Consciência Digital! A partir de sua extensa experiência em tecnologia e comportamento humano, Fabio Pereira desenvolveu este livro, um manual completo para ajudar você a ser mais consciente e, assim, tomar as rédeas da sua vida para construir e viver em um mundo melhor. Ao conhecer e aperfeiçoar os 5 Cs da Consciência Digital, você estará preparado para reconhecer e evitar as manipulações e os erros sistemáticos, controlando sua vida e suas decisões para usar a tecnologia a seu favor! Além de tudo isso, este livro também lhe ensinará: * O que são os vieses e os nudges – e como você deve usá-los; * Como controlar o seu celular e não ser controlado por ele; * Quais são as ferramentas digitais manipuladoras e como fazer uso delas para tomar uma decisão consciente; * Como aproveitar a tecnologia ao máximo em prol de uma vida e uma sociedade melhores; * O que é preciso para que você desenvolva a sua Consciência Digital!
+
+
+
+AGRADECIMENTOS
+
+
+Obrigado conscientes e inconscientes digitais do mundo todo que já expandiram, de alguma forma, sua Consciência Digital por meio de algum dos meus conteúdos – seja escrito ou falado, seja um podcast ou palestras, seja nas redes sociais, nos blogs ou em qualquer outro canal que eu compartilhe troca de informações sobre esse tema que tanto me inspira e pelo qual sou extremamente apaixonado. Obrigado por cada direct no Instagram, pelos e-mails, pelas mensagens no WhatsApp, pelo feedback sobre a primeira edição do livro e sobre todo o meu conteúdo. Foi por meio dessas opiniões que eu evoluí para que a segunda edição estivesse em suas mãos.
+Meus agradecimentos especiais aos mentores e às pessoas que me inspiraram e me ajudaram a escrever este livro:
+        Obrigado, Paulo Caroli, por ser meu editor, mentor e grande amigo. Agradeço por me incentivar e por ser um guia e um “pé no acelerador”, como você mesmo citou, quando eu precisei.
+        Obrigado, Flávia Ávila, por ser uma inspiração sendo uma das pioneiras sobre o tema da Economia Comportamental no Brasil e por sempre me dar força durante a minha jornada. 
+        Obrigado, Vinícius Teles, por ter me inspirado em 2005, quando o conheci e você tinha escrito o primeiro livro sobre ágil no Brasil. Você me fez pensar: “Um dia eu quero ser como o Vinícius”.
+        Obrigado, Dan Ariely, por ter ampliado minha visão durante as nossas conversas. Elas sempre me guiaram durante o processo de pesquisa e escrita deste livro.
+
+
+Agradeço também à minha família que sempre me apoiou na jornada de aprendizado. Sou grato ao meu irmão Paulinho, que desde que eu era criança já me colocava pra assistir a filmes em inglês sem legenda; esse aprendizado foi fundamental na minha carreira. Sem isso eu não teria chegado aqui, não teria ido pra Austrália e aprendido tanto lá. À minha irmã, Amanda, que é um doce de pessoa e sempre está do meu lado, me escutando e me apoiando nos momentos mais importantes da minha vida. À minha mainha que sempre diz que eu sou o melhor autor do mundo – coisa de mãe né? A Gerlindo, por uma das suas 35 mil decisões diárias ter sido se tornar meu pai e por ter me guiado em tantos momentos importantes da vida. Ao meu irmão Felipe, por ser um dos meus melhores amigos e sempre estar presente na minha vida quando eu mais precisei.
+Obrigado a minha parceira de vida Hélica, que está neste livro não só no capítulo que eu conto como nos conhecemos digitalmente no Instagram, mas que também está em cada palavra de cada página, porque foi com ela que eu o escrevi. Agradeço por todos os dias em que ela esteve ao meu lado enquanto eu escrevia, me apoiando e me dando força para acreditar neste livro.
+________________
+
+
+SUMÁRIO
+
+
+
+
+Prefácio        9
+
+
+O QUE É A ERA DIGITAL?        12
+35 mil        13
+Quando o mundo físico e o digital se misturam        14
+Quociente Digital (QD): o QI e o QE da era digital        22
+Decisões “Capitão Nascimento”: pede pra sair!        29
+O que são vieses?        30
+O que são nudges?        33
+ 
+CIÊNCIA COMPORTAMENTAL DIGITAL        36
+Arquitetura de decisões digitais        37
+        Quem faz a arquitetura das decisões digitais?        37
+        Um exemplo prático        38
+        Poder e responsabilidade        39
+A pirâmide da Consciência Digital        42
+ 
+ALGUNS EXEMPLOS DE EMPURRÕEZINHOS DIGITAIS        46
+Caixas, bolas e setas        47
+Resultados de buscas        51
+Opções pré-selecionadas        51
+Timelines e feeds        52
+Streaks: sem pular um dia, e não sou viciado        56
+        A dopamina e a aversão à perda 
+        explicam o poder dos streaks        60
+Realidade virtual e aumentada (VR e AR)        63
+Persuasão e Coação: os dois tipos de influência        64
+Dark patterns: quando a internet nos manipula        66
+Empurrõezinhos que ajudam        67
+        Empurrõezinhos que ajudam pessoas com diabetes        67
+        Empurrõezinhos que ajudam motoristas com sono        70
+ 
+RÁPIDO E DEVAGAR, DUAS FORMAS DE CLICAR        72
+Um taco, uma bola e os nossos dois cérebros        73
+Um impeachment, uma invasão, uma babá        74
+Não penso, logo clico        78
+Gorilas, mentiras e e-mails invisíveis        84
+ 
+AS 5 HABILIDADES DOS CONSCIENTES DIGITAIS        90
+1. Controle de decisões digitais        93
+        “Minhas decisões, minhas regras”        93
+        Por onde começar e como desenvolver esta habilidade?        94
+2. Equilíbrio Conectado-desconectado        95
+        Às vezes é preciso desconectar para se conectar”        95
+        Por onde começar e como desenvolver esta habilidade?        98
+3. Conhecimento dos vieses inConscientes        98
+        “Eu vejo vieses inConscientes!”        98
+        Por onde começar e como desenvolver esta habilidade?        100
+4. Concentração e foco digital        101
+                “Quando focamos em tudo, não focamos em nada”        101
+                Por onde começar e como desenvolver esta habilidade        104
+5. Pensamento Crítico        108
+        Duvide antes de acreditar, verifique antes de repassar”        108
+        Por onde começar e como desenvolver esta habilidade?        110
+ 
+INTELIGÊNCIA ARTIFICIAL PRECONCEITUOSA        112
+Máscaras brancas, olhos fechados e preconceitos digitais        113
+Um juiz digital irracional e preconceituoso        119
+A diversidade e inclusão dos dados evitam os preconceitos digitais        120
+        O checklist para evitar a 
+        Inteligência Artificial preconceituosa        123
+ 
+EXPANDINDO E SUGANDO NOSSA MENTE        124
+Você não é a sua mente        125
+Quando a tecnologia expande nossa mente        128
+        Dirigindo carros        129
+        Diagnosticando e tratando doenças        130
+        Comprando comida        131
+Invasão de atenção e uma dieta de conteúdo        133
+Smartphones desligados sugam nossa inteligência        140
+ 
+E PODE UMA COISA DESSA?        146
+Ética e moral 4.0        147
+ 
+E AGORA?        154
+Próximos passos para expandir a sua Consciência Digital        155
+        1. Aceite que somos irracionais digitais        156
+        2. Observe como você se comporta no mundo digital        156
+        3. Experimente fazer pequenas mudanças        159
+        4. Converse com outras pessoas e aprendam juntas        159
+        5. Volte para o passo 2 e faça tudo de novo…        160
+Isso é só o começo        160
+ 
+APÊNDICE
+O que pensa o consumidor 4.0: 
+uma pesquisa de Rafael Coutinho        163
+Sobre a pesquisa de Rafael Coutinho        164
+Resultados da pesquisa        164
+Origem da pesquisa        169
+E quais são as sugestões para as organizações após a pesquisa?        173
+ 
+O que estão falando sobre o livro Consciência Digital?        175
+Referências bibliográficas        183
+Sobre a Editora Caroli        191
+WIP (writing In progress)        191
+________________
+PREFÁCIO
+
+
+Só um expert poderá guiar você, leitor, por essa jornada de aprendizado tão importante sobre Consciência Digital. E essa pessoa é o Fabio Pereira, um dos grandes especialistas que o nosso Brasil possui para lhe ajudar a fortalecer a sua mente digital. Eu conheci o Fabio por meio de uma amiga em comum, quando a minha empresa estava realizando um trabalho com a ThoughtWorks, a empresa em que o Fabio trabalhava na época. Essa amiga fez a conexão entre nós justamente pela afinidade de atividades que realizávamos. Tão logo a nossa conexão foi feita, ele entrou em contato comigo e se colocou à disposição para ajudar naquele projeto que estávamos desenvolvendo e, assim, fazer com que ele andasse mais rápido e impactasse cada vez mais pessoas. Então, na primeira interação que eu tive com ele, já percebi o profissional que o Fabio é, e também, principalmente, a pessoa ímpar e íntegra que existe por trás desse profissional fantástico. Nossas relações se estreitaram, o que me mostrou mais uma vez a preocupação e a incansável dedicação dele em compartilhar com o máximo de pessoas possível esse assunto tão relevante, que torna cada consumidor mais consciente nos dias atuais, capaz de tomar muito melhor as suas decisões, levando em consideração que hoje o mundo é digital e que interagimos de maneira muito mais intensa com ofertas, conteúdos e informações no nosso dia a dia.
+A verdade é que a sociedade atual vive uma das maiores transformações que qualquer geração já precisou enfrentar. Os avanços tecnológicos afetam não só a carreira, os negócios e o governo, mas também o próprio sentido da humanidade. Podemos falar aqui da Inteligência Artificial, que afetará todos os segmentos; do comando de voz, que é cada vez mais preciso para realizar diversas tarefas; da biometria facial, que já é realidade em muitos países e é usada como dispositivo de segurança e, por fim, da implantação da internet 5G, que é cem vezes mais rápida do que a atual.
+Mas por que estou falando de tudo isso? Porque estamos diante de um momento no qual o trabalho que conhecemos está prestes a mudar para sempre. Vivemos em uma era na qual os dados viraram o novo petróleo, as empresas de tecnologia se tornaram as mais valiosas do mundo e a profissão de programador de software virou a mais demandada do planeta.
+Além dessas transformações que estão sendo causadas no mundo inteiro em função dos avanços tecnológicos, estamos presenciando o crescimento da Geração Z (pessoas nascidas após o ano 2000), que é a primeira geração que já nasceu no mundo digital e que não o conhece sem internet. Outro ponto importante: até o fim de 2019, essa geração será a maioria da população mundial, com 32% das pessoas.
+Essa turma vem com conceitos de segurança, hábitos e escolhas completamente diferentes das gerações anteriores. Então estamos vivenciando uma geração que vai transformar a sociedade de consumo. Ela vai reescrever a forma como empresas, organizações e, inclusive, empregos são estabelecidos. Ou seja, os avanços tecnológicos estão exigindo dos indivíduos, das empresas, da sociedade e das nações uma mudança na postura do “como eu me comporto diante do que está ao meu redor”.
+Hoje a tecnologia está presente em tudo. Eu preciso ter um conhecimento digital, preciso entender como as transações e o ambiente digital se comportam. Segundo o McKinsey Global Institute, a demanda por atividades que envolvem habilidades cognitivas básicas, físicas e manuais vai diminuir muito até 2030. Em contrapartida, vai aumentar a demanda por atividades que envolvem habilidades cognitivas de alto nível, juntamente das que envolvem habilidades sociais e emocionais e, principalmente, habilidades e competências tecnológicas. 
+Então, em função desse tripé (os avanços tecnológicos, o crescimento da Geração Z e o aumento das exigências por habilidades tecnológicas nos próximos anos), se faz extremamente necessário no mundo de hoje desenvolver uma Consciência Digital, um entendimento desse novo mundo que é consequência da evolução tecnológica. Tudo isso é mandatório para profissionais, empresas, estados e nações que querem se manter competitivas, modernas, inovadoras e atuantes no mundo de hoje.
+É por tudo isso que digo: você será transformado pela leitura que começa a seguir. Com uma linguagem direta, um papo reto e objetivo, você será levado ao longo das próximas páginas por um aprendizado que mudará a sua maneira de ver o mundo, o seu modo de decidir e colocará o tempero digital em tudo o que você faz!
+Mauricio Benvenutti
+Autor best-seller dos livros Incansáveis e Audaz e sócio da StartSe
+________________
+
+
+O QUE É A 
+ERA DIGITAL?
+35 MIL
+Sim, 35 mil! Essa é a quantidade média de decisões que um ser humano toma por dia (de acordo com o texto “How Many Daily Decisions Do We Make?”, do UNCTV Science), sendo que mais de duzentas decisões são sobre comida. Significa mais ou menos uma decisão a cada dois segundos. São muitas decisões. Elas são pequenas, grandes, impactantes, irrelevantes, conscientes e inconscientes. O que comer? O que vestir? Qual caminho escolher para o trabalho? Qual vestibular ou MBA prestar? Com quem namorar?
+Vivemos em um mundo com cada vez mais informações. Alguns números apresentados no portal FortuneLords comprovam isso:
+* A cada hora, 18 mil horas de vídeos são colocadas no YouTube. Ou seja, para acompanhar e assistir a tudo, teríamos que multiplicar o nosso tempo por 18 mil;
+* 5 bilhões de vídeos são assistidos no YouTube por dia;
+* 10% de todas as fotos do mundo foram tiradas nos últimos 45 dias;
+* O Brasil é o primeiro país com mais de um celular por habitante (1,38/hab.).
+Das 35 mil decisões que você toma por dia, já imaginou quantas são decisões digitais? Decisões digitais são as que tomamos usando equipamentos como smartphones, tablets, computadores, wearables, equipamentos de realidade virtual etc. Ou aquelas que os equipamentos digitais, muitas vezes, tomam por nós.
+
+
+QUANDO O MUNDO FÍSICO 
+E O DIGITAL SE MISTURAM
+Em 2007 enviei o meu currículo por e-mail para a ThoughtWorks, uma consultoria líder global em tecnologia e transformação digital. Participei de aproximadamente dez entrevistas, todas por Skype. Fui contratado para trabalhar na ThoughtWorks Austrália. Coloquei tudo o que tinha em três malas e me mudei para o outro lado do mundo, a terra dos cangurus, onde morei até 2016.
+Enquanto estava em Sydney, conversava com minha família e amigos do Brasil quase todos os dias, apesar da diferença de fuso de doze e até catorze horas – eu brincava que estava no futuro. Trabalhei em equipes distribuídas entre Austrália, China, Índia e Nova Zelândia e nos comunicávamos todos os dias via webcams.
+Faz anos que uso o Google Maps e o Waze quando quero ir a algum lugar que eu não conheço o caminho. Por falar nisso, quem ainda conhece o caminho de alguma coisa depois do Waze? Durante todo o tempo que morei na Austrália, nunca tive um carro, mas tinha acesso a carros através de um aplicativo no meu celular chamado GoGet. Quando precisava de um carro, abria o aplicativo, achava o carro mais próximo, entrava nele, usava e depois pagava por hora, diretamente cobrado no meu cartão de crédito. Quando não fazia isso, pegava um Uber.
+Outro exemplo do mundo digital se misturando com o físico: conheci minha namorada no Instagram. Isso mesmo, não foi em um bar, em uma balada, um teatro nem no Tinder, foi no Insta! Tomei uma decisão digital de mandar um direct pra ela – ainda escrevi #prontofalei –, e, depois de evoluir a conversa do Insta para o WhatsApp – um grande avanço no relacionamento –, nos conhecemos pessoalmente e começamos a namorar.
+Virei um apaixonado por budismo e meditação nos últimos anos e uso dois aplicativos para meditar: o Headspace e o 1 Giant Mind. Além disso, ainda tenho listas de músicas de meditação no Spotify e vou ao centro budista de vez em quando para aprender, me conectar com pessoas e evoluir espiritualmente.
+Eu ando com um relógio digital no pulso no qual eu vejo todas as minhas reuniões do dia, quantos passos eu dou ou o quanto me exercito (ele me avisa quando estou parado por muito tempo e sugere que eu me mova). 
+Percebi que não estava indo ao crossfit como eu tinha me comprometido comigo mesmo. Então coloquei lembretes no meu calendário e dez minutos antes do horário, o relógio me avisa: “Crossfit em dez minutos”. Dessa forma, eu me sinto culpado se não for já que me comprometi com o meu “eu do passado” que iria. E o “eu do presente”, por mais ocupado que esteja, quer pensar no “eu do futuro”, mas é difícil né? A gente sabe que tem que fazer uma coisa, mas procrastina, deixa pra depois... Porém, ainda bem que achei algumas formas de me ajudar, como o lembrete. Tem funcionado, mas admito que nem sempre.
+Tudo bem. Eu tenho meu relógio digital, meu calendário, meu Waze, mas há pessoas que vão além com as suas interações e decisões digitais. Quando trabalhei na ThoughtWorks, existiam dois ciborgues: Neil Harbisson e Moon Ribas. Ciborgues são pessoas que tem algum implante de tecnologia no seu corpo, hoje temos nos referido a isso como “body hacking” ou “biohacking”, que significa hackear o corpo. 
+Neil enxerga o mundo em preto e branco, pois nasceu com acromatopsia, um distúrbio genético, conhecido também como “cegueira de cores”, que deixa as pessoas completamente daltônicas. Ele resolveu buscar uma solução para isso na tecnologia. Com um dispositivo semelhante a uma antena implantado na parte de trás de sua cabeça, ele é capaz de “compreender as cores” ao seu redor por meio de sons transmitidos pela antena, que traduzem cores em vibrações distintas. Ele diz que “escuta cores”.
+Moon é uma artista que tem um implante em seu braço que vibra todas as vezes que um terremoto acontece em qualquer lugar do planeta Terra. Ela descreve a experiência como “dois corações que batem, um dela e um da Terra” e criou uma dança chamada “Esperando por terremotos”. Nela, Moon fica parada esperando que um terremoto aconteça em qualquer lugar do mundo e dança no ritmo do terremoto.
+No dia 2 de agosto de 2017, eu estava em Santiago, no Chile, trabalhando em um cliente que estava fazendo o que chamamos de “Transformação Digital”. Ou seja, como transformar todo o seu negócio, de 140 mil pessoas, usando tecnologia. Nesse mesmo dia, acordei de madrugada com a minha cama tremendo. Pensei que era um sonho, fiquei meio desorientado e depois voltei a dormir.
+Acordei às 7h da manhã e vi a seguinte chamada no Google: “Terremoto em Santiago às 3h15 da madrugada”. Minha reação foi de choque, pois nunca tinha passado por isso na minha vida. Depois do susto, eu fiquei pensando que aquele mesmo terremoto às 3h15 da madrugada fez o braço da Moon Ribas vibrar, seja lá onde ela estivesse no mundo. Tudo isso graças ao fato de que sensores medem os terremotos e de que existe uma tecnologia que transmite isso das placas tectônicas no Chile ao braço de uma pessoa em tempo real.
+Se estivesse em um lugar com um fuso horário muito diferente do Chile, ela provavelmente estaria dançando na mesma frequência que me fez acordar de madrugada, enquanto eu pensava que a minha cama balançando era um sonho.
+Parece quase desnecessário explicar que o nosso mundo físico está junto e misturado com o mundo digital. São smartphones cheios de aplicativos pra tudo, tablets, computadores, sensores, wearables, realidade virtual e aumentada, carros que dirigem sem motoristas e até espelhos que falam com a gente.
+Já existem computadores que:
+* Dirigem carros;
+* Julgam se réus são culpados ou inocentes;
+* Fazem o diagnóstico de doenças;
+* Corrigem redações;
+* Investem na bolsa de valores;
+* Analisam plantações;
+* Reconhecem imagens melhor do que humanos;
+* Identificam emoções de humanos;
+* Conduzem orquestras.[1]
+Eu amo participar de eventos. Participei de um em Singapura em que foi mostrado para o mundo um espelho mágico integrado com o seu banco. Nele, você pergunta: “Alexa, qual é o meu saldo?” e o espelho responde e mostra pra você. Alexa é um assistente digital que escuta o que falamos e realiza tarefas. Na última feira CES 2017 (Consumer Electronic Show), em Las Vegas, assistentes assim apareceram em produtos como geladeiras, robôs, celulares, caixas de som, secadoras, lavadoras, aspiradores de pó, roteadores Wi-Fi, carros e muito mais. Alexa é só um exemplo desse tipo de tecnologia, outros exemplos são Google Assistente, Siri, da Apple, e Cortana, da Microsoft.
+Em 2016, o meu sobrinho Pedro me visitou e não parava de jogar Pokémon GO, um jogo que influenciou as pessoas do mundo todo a darem 144 bilhões de passos.[2] Ele funciona com realidade aumentada que estimula a movimentação em ambientes externos.
+Entender como essas novas tecnologias impactam a nossa vida faz parte do que eu faço nesse mundo que está constantemente se transformando. Trabalhei por dez anos na ThoughtWorks e, no fim de 2018, aceitei o desafio de liderar uma área de Inovação Digital na Red Hat, onde também trabalho com pessoas, com decisões e como o mundo digital impacta a nossa vida.
+Somos humanos, tomamos decisões baseadas no que sentimos e pensamos mais no curto prazo do que no longo. Temos limitações de processamento no nosso cérebro, temos atenção limitada, pensamos que somos racionais e que tomamos decisões racionais, mas somos irracionais – irracionais digitais.
+
+
+QUOCIENTE DIGITAL (QD): 
+O QI E O QE DA ERA DIGITAL
+Sabe quando conhecemos alguém e pensamos: “Essa pessoa não é boa em matemática, mas sabe se comunicar muito bem”? Ou também: “Essa pessoa não fala bem em público, mas tem um conhecimento gigante de si mesmo”? Isso ocorre porque não existe um só tipo de inteligência. Howard Gardner explica isso no seu livro Estruturas da mente, no qual descreve sete dimensões da inteligência. Desde a publicação da obra em 1983, Gardner propôs duas novas dimensões de inteligência: a naturalista e a existencialista. Hoje, essa teoria é conhecida como teoria das inteligências múltiplas e é composta por nove inteligências:
+1.        Linguística
+2.        Musical
+3.        Lógico-matemática
+4.        Visual/Espacial
+5.        Corporal/Cinestésica
+6.        Interpessoal
+7.        Intrapessoal
+8.        Naturalista
+9.        Existencialista
+O infográfico abaixo[3] mostra as nove inteligências de uma forma visual:
+
+
+  
+
+©Mark Vital
+
+
+
+
+O Quociente de Inteligência (QI) só considera algumas dessas inteligências, principalmente a lógico-matemática, linguística e espacial. O Quociente Emocional (QE) trouxe um olhar mais amplo para as inteligências interpessoal e intrapessoal, mostrando que ambas são muito importantes para o sucesso e para a felicidade de uma pessoa. Ou seja, o QE deixou claro que só ter um QI alto não é suficiente.
+Como falamos antes, já vivemos em um mundo em que computadores dirigem carros, julgam se réus são culpados ou inocentes, fazem o diagnóstico de doenças, corrigem redações, investem na bolsa de valores e muito mais. Será que o nosso conhecimento atual e os ensinamentos de hoje em dia serão necessários no futuro? A resposta rápida é não! Existem várias outras habilidades necessárias e muito importantes.
+Então, qual é a resposta? Como ter certeza se já sabemos o que precisamos saber? Como aprender? O Quociente de Inteligência Digital (QD), criado pelo DQ Institute, é um conjunto de habilidades críticas para o sucesso, a felicidade e, mais importante ainda, para a segurança na era digital. Em 2017, o instituto definiu, ensinou e mediu oito dessas habilidades:
+
+
+1. Identidade da cidadania digital 
+A habilidade de construir e gerenciar sua identidade on-line alinhada com a sua integridade fora do mundo digital. Ela engloba:
+* Entender como a internet funciona;
+* Desenvolver liderança digital; 
+* Ser um cidadão digital; 
+* Saber qual é o seu sonho;
+* Conseguir realizar o alinhamento entre a identidade on-line e a off-line; 
+* Construir a integridade de persona on-line.
+2. Tempo de tela
+A habilidade de gerenciar seu tempo em equipamentos digitais. Foco, atenção e autocontrole relacionados a games e redes sociais. Ela engloba:
+* Controlar multitarefas;
+* Prevenir a dependência de games;
+* Conhecer os efeitos prejudiciais do excesso de telas;
+* Ter autocontrole no uso digital;
+* Ter equilíbrio de uso de telas;
+* Estabelecer regras familiares;
+* Fazer a gestão de tempo e de prioridades.
+
+
+3. Cyberbullying 
+É a habilidade de saber identificar situações de assédio virtual (cyberbullying) e como agir de forma inteligente e consciente. Ela engloba:
+* Conseguir identificar o cyberbullying;
+* Saber o que é cyberbullying;
+* Compreender os tipos de cyberbullying;
+* Identificar se está envolvido em cyberbullying sem saber;
+* Lidar com cyberbullying;
+* Identificar quais são os adultos confiáveis;
+* Saber quando é preciso procurar ajuda.
+
+
+4. Segurança digital
+É a capacidade de proteger seus dados, criar senhas poderosas e evitar ataques cibernéticos como SPAM, SCAM e outros. Esta habilidade engloba:
+* Criar senhas poderosas;
+* Manter suas senhas seguras;
+* Entender e gerenciar SPAM e SCAM;
+* Entender e gerenciar ataques de isca (phishing);
+* Observar a segurança móvel.
+
+
+5. Privacidade digital
+É a habilidade de lidar com todas as informações que compartilha na internet protegendo a sua privacidade e a de outras pessoas. Ela engloba:
+* Preservar informações pessoais;
+* Conseguir manter a privacidade nas redes sociais;
+* Proteger a privacidade de outras pessoas;
+* Conhecer os direitos da privacidade na internet.
+
+
+6. Pensamento crítico 
+É a habilidade de identificar o que é falso ou verdadeiro, bom ou prejudicial, relacionados aos conteúdos e contatos on-line. Ela engloba:
+* Saber quem você conhece on-line;
+* Identificar quem são amigos on-line;
+* Conhecer os doze alertas estranhos;
+* Saber como evitar conteúdo violento;
+* Reconhecer o que é conteúdo inapropriado;
+* Compreender como criticar conteúdo;
+* Distinguir uma informação verdadeira de uma falsa.
+
+
+7. Pegadas digitais 
+É a habilidade de entender as marcas que você deixa na rede e suas consequências a curto e médio prazo na vida real, fazendo-o postar responsavelmente. Ela engloba:
+* Saber o que são pegadas digitais;
+* Conhecer as pegadas digitais que revelam informações pessoais;
+* Identificar pegadas digitais que ficam gravadas;
+* Controlar pegadas digitais que impactam sua reputação;
+* Compreender as consequências na vida real;
+* Parar, pensar e conectar o mundo on-line com o off-line.
+
+
+8. Empatia digital 
+É a habilidade de se colocar no lugar de outra pessoa e entender seus sentimentos e suas necessidades mesmo que só a conheça no mundo digital. Esta habilidade engloba:
+* Ter coragem pra falar;
+* Identificar o espectadores e os proativos;
+* Escutar com empatia na internet;
+* Falar com empatia;
+* Ter empatia com as vítimas digitais;
+* Não julgar na internet.
+
+
+
+
+QD 
+Quociente de Inteligência Digital
+
+
+Identidade da Cidadania Digital
+A habilidade de construir e gerenciar sua identidade  on-line alinhada com a sua integridade fora do mundo digital.
+
+
+Tempo de Tela
+A habilidade de gerenciar seu tempo em equipamentos digitais. Foco, atenção e autocontrole relacionados a games e redes sociais.
+
+
+Cyberbullying
+A habilidade de saber identificar situações de assédio virtual (cyberbullying) e como agir de forma inteligente e consciente. 
+
+
+Segurança Digital
+A capacidade de proteger seus dados, criar senhas poderosas e evitar ataques cibernéticos como SPAM, SCAM e outros. 
+
+
+Privacidade Digital
+A habilidade de lidar com todas as informações que compartilha na internet protegendo a sua privacidade e a de outras pessoas. 
+
+
+Pensamento Crítico
+A habilidade de identificar o que é falso ou verdadeiro, bom ou prejudicial, relacionados aos conteúdos e contatos on-line.
+
+
+Pegadas Digitais
+A habilidade de entender as marcas que você deixa na rede e suas consequências a curto e médio prazo na vida real, fazendo-o postar responsavelmente. 
+
+
+Empatia Digital
+A habilidade de se colocar no lugar de outra pessoa e entender seus sentimentos e suas necessidades mesmo que só a conheça no mundo digital.
+
+
+@DQ Institute™
+
+
+  
+
+
+
+Já existe até um teste que mede o seu QD e compara com o de outras pessoas. Já está comprovado que pessoas com um QD maior estão mais seguras na internet. Se você fizer um teste de QD antes e depois de ler este livro, é bem provável que o seu QD seja maior depois de ler. Um dos objetivos deste livro é aumentar o seu QD para que você tenha mais sucesso, felicidade e segurança na era digital.
+
+
+DECISÕES “CAPITÃO NASCIMENTO”:
+PEDE PRA SAIR!
+Existe uma pesquisa em que a diferença entre o resultado da Áustria e o da Dinamarca é gigantesco. A Áustria fica com 99% e a Dinamarca com apenas 4%. Você consegue imaginar o que é?
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uma vez eu perguntei para um grupo de pessoas em uma palestra o que eles achavam que esse número representava. Alguém gritou: “É o número de austríacos!”. Depois de rir e até achar que isso foi uma resposta interessante, eu expliquei que essa é a porcentagem das pessoas que são doadoras de órgãos. E por que isso acontece? Na Áustria as pessoas são automaticamente doadoras de órgãos e precisam “pedir pra sair” (opt-out) para deixarem de ser. Já na Dinamarca, elas precisam pedir pra entrar (opt-in).
+Como assim? Existe uma palavra mágica que influencia comportamentos: default – que se pronuncia “defôu”. É o que eu chamo de decisões “Capitão Nascimento – pede pra sair!”. São decisões que já foram tomadas e você precisa pedir pra sair se quiser outra coisa.
+“Pede pra sair!” é uma frase famosa do Capitão Nascimento, protagonista dos filmes Tropa de Elite, que eu resolvi usar para explicar o conceito de “opt-out”.
+O default é um dos mais de 150 vieses inconscientes conhecidos e catalogados pela Economia Comportamental (Behavioral Economics), uma área que vem transformando a forma como entendemos a tomada de decisões do ser humano. O Guia de Economia Comportamental e Experimental, que é a referência mais completa em português, com mais de 400 páginas sobre o assunto, chama o default de “escolha padrão” e o associa ao viés do statu quo, também conhecido como inércia.
+“A preferência pela permanência das coisas, por exemplo, a tendência a não mudar o comportamento a menos que o incentivo para fazê-lo seja forte, é chamada de viés do statu quo. A inércia é uma manifestação da propensão humana a permanecer no statu quo”. – Guia EC.
+
+
+O QUE SÃO VIESES?
+Vieses inconscientes ou cognitivos (cognitive biases) são erros sistemáticos na nossa forma de pensar e tomar decisões. O que mais me ajudou a entender o que são vieses foram as ilusões de ótica, e vou lhe explicar como.
+As famosas e conhecidas ilusões de ótica são uma prova concreta de que o nosso cérebro e os nossos sentidos não são perfeitos. Veja a imagem a seguir:
+
+
+  
+
+
+
+
+
+A maioria das pessoas que olha para essa imagem tem a impressão de que o círculo interno da esquerda é levemente maior do que o da direita. Na verdade, porém, os dois são do mesmo tamanho. Essa “ilusão” é causada pelos círculos externos. Na esquerda, os círculos externos menores fazem pensar que o interno é maior. Da mesma forma, os círculos externos maiores, na direita, fazem pensar que o interno é menor. Esse é um exemplo ideal que mostra que o cérebro funciona de forma relativa, e não absoluta. Mesmo tentando, não se consegue isolar e olhar somente para os círculos internos, ignorando os externos. Só se consegue perceber que os círculos internos são do mesmo tamanho ao remover os externos. Veja abaixo:
+
+
+  
+
+
+
+#vcsabia O que está em volta influencia a forma que enxergamos o mundo e também nos influencia quando tomamos decisões.
+Nas ilusões de ótica vemos algo diferente da realidade. Quando tomamos decisões, os vieses nos influenciam a levar em consideração uma realidade limitada. Há várias décadas, cientistas, como o ganhador do Prêmio Nobel Daniel Kahneman, estudam e catalogam esses vieses para que possamos entender melhor o que eles chamam de “irracionalidade do ser humano”. Dan Ariely conta no seu livro best-seller Previsivelmente irracional, por meio de vários de seus experimentos científicos, como a grande maioria das pessoas se comporta de forma irracional e previsível, como cometemos os mesmos erros e como é possível não só prever, mas influenciar pessoas a agirem de uma forma ou de outra.
+Simples, não é? Sabe aquele formulário on-line que diz: “Marque para não receber ofertas por e-mail”? Significa que alguém já tomou a decisão por você de receber ofertas e, se você não quiser receber, tem que pedir para sair.
+
+
+O QUE SÃO NUDGES?
+A grande maioria das decisões é influenciada por fatores irracionais: falta de atenção, falta do contexto completo com toda informação necessária, fatores emocionais etc. Existem dezenas de vieses inconscientes que nos ajudam a entender quais fatores influenciam a tomada de decisão e como fazemos isso. O conhecimento profundo desses vieses faz com que seja possível criar pequenas intervenções nos ambientes em que tomamos decisões para influenciar pessoas a escolherem uma coisa ou outra. Cada intervenção dessas é chamada de nudge – a pronúncia é “nâdge” –, que pode ser traduzido como “empurrãozinho”. O termo foi criado por Richard Thaler e Cass Sunstein no livro que escreveram juntos que também se chama Nudge. As contribuições de economistas comportamentais são tão significativas que Thaler ganhou o Prêmio Nobel em 2017 por unir Economia e Psicologia.
+Esses empurrõezinhos tem que ser suaves e deve existir uma forma de você “pedir pra sair” da decisão que o empurrãozinho o influenciou a tomar. Por exemplo, se pais querem influenciar o consumo de frutas e diminuir o consumo de chocolates dos seus filhos:
+* É um nudge: colocar frutas mais próximas de onde os filhos brincam e deixar os chocolates guardados em um armário.
+* Não é um nudge: proibir totalmente o consumo de chocolate e obrigar os filhos a comerem frutas.
+Claro que, para outros comportamentos, a criação de políticas de proibição é mais eficaz como, por exemplo, proibir cigarros em restaurantes – que, convenhamos, foi uma das melhores coisas que a humanidade já proibiu, concordam? 
+Se você fuma e sentiu uma leve sensação de desconforto ao ler isso, saiba que essa foi exatamente a minha intenção e esse é o meu empurrãozinho para você parar de fumar. 
+
+
+  
+________________
+
+CIÊNCIA
+COMPORTAMENTAL
+DIGITAL
+Falamos da Economia Comportamental, também conhecida como Ciência Comportamental, e, a partir de agora, vamos usar esses dois termos (Economia e Ciência) como sinônimos. As minhas maiores dúvidas quando comecei a estudar Ciência Comportamental por volta de 2010 eram:
+1.        Será que os princípios do mundo físico relacionados à Ciência Comportamental também se aplicam ao mundo digital?
+2.        Se sim, como fazer um paralelo entre as formas de influência física, analógica e digital?
+A busca por respostas para essas perguntas utilizando ciência é o que eu chamo de Ciência Comportamental Digital.
+
+
+ARQUITETURA DE DECISÕES DIGITAIS
+Quem faz a arquitetura das decisões digitais?
+No mundo da criação de produtos e interfaces digitais, existe um poder enorme que está nas mãos das pessoas de UX (user experience, experiência do usuário) e XD (experience design, design de experiência). Essas pessoas têm o poder de arquitetar os ambientes de tomadas de decisão. E é no momento de decidir de que modo apresentar as opções para os usuários que o entendimento de como o ser humano toma decisões é essencial.
+
+
+Um exemplo prático
+Em uma das equipes de criação de produtos digitais em que trabalhei, precisávamos escolher como apresentar as opções para compradores de seguro. Comprar seguro é complicado, não é? Tem muitas opções, é cobertura disso e daquilo e, para um determinado produto, o comprador poderia escolher 511 opções diferentes. Para simplificar a contratação para os clientes, fizemos uma personalização. Escolhemos as três melhores opções de pacotes para o comprador baseadas, entre outros fatores, na sua profissão. Se a pessoa fosse fotógrafa, viriam três opções; se fosse empresária, viriam outras três opções, algo assim:
+
+
+
+
+PERSONALIZAÇÃO DIGITAL
+  
+
+
+
+
+
+Dessa forma, das 511 possibilidades de combos, os compradores poderiam escolher três. Claro que, depois de escolher um desses três, outras opções poderiam ser adicionadas ou retiradas da “opção padrão” selecionada. É quase como ir ao McDonald's e pedir um Big Mac sem cebola. É bem mais fácil do que montar o sanduíche todo do zero. 
+Por falar em McDonald’s, limitar o número de opções de produtos foi exatamente uma das estratégias que possibilitaram o crescimento em escala da rede, explicado no filme Fome de Poder[4]. Só que diferente de sanduíches, em produtos digitais a flexibilidade é bem maior. Usamos uma técnica muito poderosa: a personalização, que é um dos pilares das telas mais inteligentes – como explica Shlomo Benartzi em seu livro The Smarter Screen.
+
+
+  
+
+
+
+
+
+
+
+
+
+Poder e responsabilidade
+Quando eu entendi isso, ficou claro o enorme poder que as pessoas de UX e XD têm. Essas pessoas arquitetam em qual lugar estará o checkbox, o que vai estar escrito, quais opções devem ser mostradas primeiro etc. Existe um poder enorme em decidir o nome das opções:
+Não quero receber ofertas: pede pra sair
+Quero receber ofertas: pede pra entrar
+
+
+E se as opções já estiverem marcadas, tudo se inverte:
+Não quero receber ofertas: pede pra entrar
+Quero receber ofertas: pede pra sair
+
+
+O mais interessante é que, intuitivamente, pensamos que só precisamos “pedir pra sair” se algo já estiver selecionado pra gente, mas existe todo um jogo de como fazer o design das opções. Percebeu?
+“Com grandes poderes vêm grandes responsabilidades!”, já dizia o sábio tio do Homem-Aranha. Para criadores de produtos digitais, existe uma grande responsabilidade em arquitetar o que os cidadãos digitais vão usar, de maneira que isso resolva alguma necessidade em vez de simplesmente tentar vender algo que eles não precisam ou não querem.
+O seu celular controla você ou você controla o seu celular?
+
+
+
+
+A PIRÂMIDE DA CONSCIÊNCIA DIGITAL
+Um dos objetivos desta obra é expandir sua Consciência Digital. Como saber em qual nível você está? A pirâmide abaixo apresenta quatro níveis.
+
+
+PIRÂMIDE DE 
+CONSCIÊNCIA DIGITAL
+
+
+  
+
+
+
+
+Nível 1 “Acho que sou racional”
+No nível 1 você é irracional, desinformado e inconsciente. Mas, por ser inconsciente, acha muitas coisas que não são verdade. Acha que é totalmente racional, acha que não é influenciado e acha que toma suas próprias decisões. Sim, só “acha”.
+
+
+Nível 2 “Sei que sou irracional, 
+              mas não entendo como”
+No nível 2 você ainda é irracional, porque todos somos, mas já está informado e ciente dessa sua irracionalidade. Ainda continua inconsciente, por isso é irracional, informado e inconsciente. A única coisa que muda do nível 1 para o 2 é a sua atitude em relação ao fato de saber que é irracional. Por isso, a frase que representa esse nível é: “Sei que sou irracional, mas não entendo como”. Ainda não entende porque ainda não conhece os vieses cognitivos, as armadilhas das nossas decisões. Sabe que é irracional, sabe que é influenciado, mas não entende ainda como é influenciado.
+
+
+Nível 3 “Sou irracional e entendo os vieses”
+No nível 3 você continua sendo irracional, porque todos somos, mas já está informado e agora, mais importante, é consciente da sua irracionalidade. Conhece e entende os vieses inconscientes, às vezes identifica quando está sendo influenciado, algumas vezes ainda é influenciado sem saber, pois é impossível ultrapassarmos completamente a essência da irracionalidade humana e sermos 100% racionais. Por isso, existe o nível 4, que é ilustrativo.
+
+
+Nível 4 “Sou racional, eu não existo!”
+No nível 4 você é totalmente racional, não possui vieses cognitivos, tem atenção infinita, tem toda a informação do mundo e toma as melhores decisões sempre. Ou seja, você não existe! Você seria o que o Thaler e Sunstein chamam de econs no livro Nudge: “Pessoas que se comportam exatamente como descrito pelos economistas também são chamadas de homem econômico. Eles possuem racionalidade perfeita, no sentido econômico de que suas preferências são consistentes e egoístas e sempre tomam ações que maximizam sua satisfação”.
+Então, em qual nível você está? É bem provável que depois de ler este livro esteja quase no nível 3, que é o maior nível que um ser humano pode chegar!
+
+
+  
+________________
+
+ALGUNS EXEMPLOS DE EMPURRÕEZINHOS DIGITAIS
+Existem diversas formas de influenciar alguém a escolher, comprar, entrar, assinar, pedir, enviar, aceitar, buscar ou clicar no mundo digital. Uma das mais poderosas de todas são os defaults digitais, as decisões que os computadores já tomaram e você precisa pedir pra sair. Aqui estão alguns exemplos de defaults digitais e outros empurrõezinhos, e também como eles podem aparecer na sua vida no mundo digital:
+
+
+CAIXAS, BOLAS E SETAS
+No mundo da tecnologia também são conhecidos como checkboxes, radio buttons e dropdowns. É sempre bom entender o que acontece se você não fizer nada, não marcar ou não desmarcar. Você já deve ter visto algum deles em algum formulário ou aplicativo que estava usando:
+
+
+  
+
+
+
+  
+
+
+
+E cada vez aparecem mais e mais tipos de botões e interfaces digitais já preenchidas por nós:
+
+
+  
+
+
+
+
+
+Todas as vezes que você se deparar com um desses, pode ter certeza de que existe uma decisão já tomada por você. Se já estiver marcado, você precisa desmarcar se quiser pedir pra sair. Se não estiver marcado, você precisa decidir se quer marcar. Ou seja, não fazer nada significa aceitar o que já foi decidido – a opção padrão –, o default digital. Faça isso de forma consciente.
+Quando se deparar com uma caixa já selecionada, ou não selecionada, ou um botão desses do tipo radio, pergunte a si mesmo: “E se eu não fizer nada? Se eu não selecionar, não desmarcar, não fizer absolutamente nada, qual decisão vou estar tomando?”. #ficaadica
+
+
+RESULTADOS DE BUSCAS
+Se a gente for no Google hoje e pesquisar “onde comer em São Paulo” tem mais de 100 milhões de resultados. Em qual deles você clica? Pois saiba que 9 em cada 10 pessoas clicam em algum resultado da primeira página do Google.
+Ou seja, será que quem escolheu o lugar foi você ou foi o Google? Os resultados da primeira página são um empurrãozinho pra que você clique em um deles. Claro que em um mundo ideal, em que o objetivo principal é ajudar os cidadãos digitais que estão buscando algo, os resultados viriam de forma ordenada por relevância e, com certeza, os da primeira página seriam os mais relevantes.
+Mas será que esse interesse em ajudar está sempre presente? A começar pelo fato de que os primeiros resultados que aparecem são “links patrocinados”, ou seja, são pessoas ou empresas que pagaram para aparecer nessa lista. Então a relevância já começa a ser baseada em quem pagou mais e não em qual link é realmente mais relevante e qual vai resolver a sua necessidade como um usuário daquela busca.
+Experimente ir para as outras páginas de resultados além da primeira do Google quando buscar alguma coisa. Veja se os resultados são relevantes pra você. Não fique preso só na primeira página. #ficaadica
+
+
+OPÇÕES PRÉ-SELECIONADAS
+Quando a Uber lançou a opção chamada “pool”, os passageiros passaram a poder compartilhar suas viagens com outros passageiros para diminuir o custo. O interessante é que a Uber decidiu já selecionar esta opção pra você automaticamente. Quando abria o Uber, já estava lá marcado pra escolher essa opção.
+Eu adoro conversar com motoristas da Uber. Um deles me contou uma história de uma senhora que o chamou via Uber pool. Quando ela chegou no carro e viu que tinha outro passageiro, ela estranhou e questionou o motorista. Ele olhou para ela e respondeu: “É, a senhora escolheu o pool”. E ela disse: “Escolhi o quê?”.
+A senhora tinha escolhido o pool sem nem saber o que estava escolhendo. Escolheu porque já estava escolhido por ela. Será que foi ela quem tomou essa decisão ou foi a Uber que escolheu quando decidiu deixar pré-selecionado?
+Antes de clicar em botões para prosseguir, como o botão de “pedir Uber”, preste atenção em quais opções já estão pré-selecionadas e decida você mesmo se quer elas. Você é quem tem que decidir. #ficaadica
+
+
+TIMELINES E FEEDS
+Se você usa Facebook, Instagram, LinkedIn, Twitter ou alguma outra rede social nas quais você fica passando, passando e passando posts e eles nunca acabam, essa lista de posts é chamada de “timeline”, ou “linha do tempo”. É também conhecida como feed. Essa lista que contém as postagens de diversas pessoas que você segue, das páginas que você curte, dos posts patrocinados e outros.
+Você já passou pela situação em que um amigo seu do Facebook postou alguma coisa e nunca apareceu pra você na sua timeline? Agora mesmo entrei no meu Facebook e o primeiro post que apareceu foi de um amigo que postou há duas horas, já o segundo post na minha timeline foi de uma amiga que postou há nove horas. É por isso que fico me perguntando: “Será que durante essas sete horas nenhum outro amigo meu postou nada?”. É bem provável que sim, que outros amigos postaram neste intervalo de sete horas, mas esses posts não apareceram na minha timeline.
+Isso acontece porque, com cada vez mais amigos postando, páginas sendo seguidas e posts sendo patrocinados, é preciso decidir em qual ordem mostrar o que você segue. Nem sempre essa decisão é tomada com base somente na linha cronológica, ou seja, os mais recentes primeiro. Existem diversos outros fatores que são levados em consideração quando algo aparece ou não no seu feed.
+O artigo da TechCrunch, de 2014 – “Por que o alcance das páginas do Facebook está diminuindo?” – explica que o número de posts possíveis para serem exibidos por dia para cada usuário varia entre 1.500 e 15 mil. Ou seja, existem até 15 mil opções de quais posts exibir por dia em uma timeline. A imagem abaixo explica um pouco sobre quais fatores são levados em consideração pelo Facebook ao decidir se um post vai aparecer ou não na sua timeline.
+
+
+  
+
+
+
+A fórmula inclui:
+* Interesse do leitor no criador do post;
+* Performance do post entre outros usuários;
+* Performance do criador do post entre outros usuários;
+* Tipo de post preferido (status, foto, link etc.);
+* Quão recente é o post.
+
+
+É importante lembrar que, como a imagem original também informa, “esta é uma equação simplificada. O Facebook também olha para cerca de 100 mil outros fatores personalizados para os usuários para determinar o que mostrar”.
+Será que é você quem decide o que vai ver na sua timeline ou será que o Facebook, o Instagram, o LinkedIn e todos os outros ambientes digitais com timelines dão um empurrãozinho pra você consumir o conteúdo que eles acham mais relevantes pra você? 
+Já vimos que o Facebook tem uma fórmula que define o que você vai ver na sua linha do tempo, mas, de acordo com a Economia Comportamental, deveria ser fácil “pedir pra sair” e escolhermos os nossos próprios filtros. Uma vez que uma decisão é tomada por você e não há a opção de “pedir pra sair” dela, ela deixa de ser um empurrãozinho e passa a ser uma obrigação. Deveria ser possível dizer: “Quero ordenar minha timeline por tempo, ou por amigos mais próximos, ou por tema, ou só por fotos, ou só por vídeos”. Infelizmente não temos todo esse controle sobre o filtro da redes sociais. É como ir a um rodízio de comida achando que vai ter direito a escolher o que comer, na sequência que quiser, mas ter que ficar sujeito aos pratos que são trazidos para você na sequência que o restaurante decidir. E, ainda por cima, não ter a opção de dizer que não quer algo que chegou para você comer. Já imaginou essa situação? Você iria a um rodízio desses?
+No caso das timelines, algumas redes sociais nos dão a opção de configurar e “priorizar” o que queremos ver. O Facebook, por exemplo, nos deixa selecionar amigos e páginas que queremos priorizar, é a opção “ver primeiro”.
+Então, tome as rédeas das suas timelines! Vá nas preferências do Facebook e de outras redes sociais e priorize quem e o quê você acredita ser importante. Priorize uma dúzia de pessoas e páginas que quer dar mais atenção e veja o que quiser e não só o que uma fórmula mágica decidiu que seria melhor para você! #ficaadica
+
+
+STREAKS: SEM PULAR UM DIA, 
+E NÃO SOU VICIADO
+“Eu faço isso há trinta anos, sem pular um dia, e não sou viciada.” Essa frase ficou famosa no vídeo Tapa na Pantera[5], uma performance de ficção, na qual Maria Alice Vergueiro diz que fuma maconha há trinta anos, “sem pular um dia” e não é viciada. Você acha que alguém que faz algo por trinta anos, sem pular um dia, é viciado? E o mais interessante nessa frase é a parte do “sem pular um dia”.
+Como criar o hábito de fazer algo todos os dias? Como escovar os dentes, tomar banho ou meditar todos os dias, sem pular nenhum. Uma solução encontrada são os chamados streaks – pronúncia “stríques”. Então, o que é um streak? Para explicar isso, vamos usar o Snapchat como um exemplo. Se você pensou “Snap o que?”, é melhor eu explicar um pouco sobre esse aplicativo, já que não é muito popular no Brasil. O portal Oficina da Net explica o que é o Snapchat:
+“O Snapchat é um mensageiro, parecido com WhatsApp, com mensagens autodestrutivas. Exato, as mensagens são enviadas para seu contato e logo após alguns segundos, são destruídas automaticamente. Esta é a charada do aplicativo, isso que o tornou popular. Você envia a mensagem para um contato e terá certeza de que ela será apagada. E por qual motivo alguém iria querer apagar a mensagem enviada? Bom, penso eu que é um diferencial. Por que utilizariam ele e não o WhatsApp se ambos fossem iguais?”.
+Outra informação interessante a respeito do Snapchat é que o Facebook tentou comprá-lo em 2013 por 3 bilhões de dólares e o Google já tentou o mesmo em 2016 por 30 bilhões de dólares, mas nenhum deles conseguiu efetuar a compra nessas tentativas. O Facebook já copiou muitas funcionalidades do Snapchat, incluindo os famosos “stories”, que é uma das funcionalidades mais utilizadas no Instagram, principalmente aqui no Brasil.
+Voltando para os streaks, uma das funcionalidades do Snapchat são os chamados snapstreaks. Eles são representados por um ícone de “foguinho” e um número do lado dele, como a imagem abaixo mostra:
+  
+
+
+
+O site de suporte do Snapchat explica o que isso significa: “Você e seu amigo estão em um snapstreak se vocês enviarem snaps um para o outro a cada 24 horas por mais de três dias seguidos. O número ao lado do foguinho indica a duração do snapstreak em dias. Por exemplo, se você tiver o número 8 ao lado, quer dizer que você e essa pessoa estão trocando snaps entre si há oito dias.
+Na imagem acima, um dos streaks tem o número 226. Isso significa que essas duas pessoas estão enviando snaps uma para a outra todos os dias, “sem pular um dia”, por 226 dias. Caso uma das duas não envie o snap, o streak zera! Isso mesmo. Volta ao zero e tem que começar tudo de novo.
+O artigo chocante da Business Insider, chamado “Os adolescentes estão obcecados pela pontuação Snapchat”, mostra como os streaks influenciam os jovens: “Eu definitivamente já vi pessoas usarem os streaks do Snapchat como um tipo de medida do quanto elas são próximas de alguém”, disse a estudante Eve. Ela completa dizendo: “Já ouvi pessoas dizerem coisas do tipo, sim, eu a amo, temos um snapstreak de 200 dias”. Depoimentos de adolescentes e diversos outros artigos na internet mostram como os streaks do Snapchat influenciam o uso e o engajamento no aplicativo.
+Um outro aplicativo que também faz o uso de streaks para incentivar e influenciar o uso diário, “sem pular um dia”, é o Duolingo. Ele é o maior site para aprendizagem gratuita de idiomas do mundo e também usa os streaks para engajar as pessoas que estão estudando via plataforma. Bem parecidos com os streaks do Snapchat, os do Duolingo também são representados por um “foguinho” e um número. O número representa a quantidade de dias que o usuário atingiu o seu objetivo diário chamado de XP Goal. Esse mecanismo é explicado em mais detalhes no artigo do suporte do Duolingo “O que é um streak?”[6].
+  
+
+
+
+Snapchat e Duolingo são dois exemplos de como os streaks podem influenciar o comportamento para aumentar a frequência do uso de aplicativos digitais, na mesma rotina do “sem pular um dia”. Os streaks são um grande exemplo de empurrãozinho digital que influencia nossas decisões.
+
+
+A dopamina e a aversão à perda 
+explicam o poder dos streaks
+As razões por trás dessa força influenciadora secreta dos streaks podem ser explicadas de duas formas: ganho e perda. Prazer em ganhar e medo de perder. Aumentar e manter os streaks é como um jogo para o nosso cérebro. A cada dia que passa, avançamos uma fase e ganhamos um número. Pete Brown conta no seu artigo “O poder dos streaks” que sua filha tem conversado menos com ele porque usa o tempo que estão indo pra escola juntos pra “manter os seus streaks”. Pete sugere que, cada vez que uma pessoa responde a mensagem da sua filha e ela “mantém o streak” por mais um dia, o cérebro dela libera dopamina, e isso é mesmo verdade. Simon Sinek também explica isso em uma entrevista que viralizou na internet:
+
+
+
+
+  
+
+“QUANDO RECEBEMOS          
+A RESPOSTA DE UMA 
+MENSAGEM, É GOSTOSO. 
+ESSA SENSAÇÃO DE 
+‘GOSTOSURA’ É ALGO QUE A 
+GENTE BUSCA MAIS 
+E MAIS. DOPAMINA É 
+EXATAMENTE O MESMO 
+COMPOSTO QUE NOS FAZ 
+SENTIR BEM QUANDO 
+FUMAMOS, BEBEMOS OU 
+APOSTAMOS, OU SEJA, 
+É ALTAMENTE VICIANTE.”   
+
+
+   
+
+
+
+
+O olhar da Economia Comportamental e da irracionalidade do ser humano sugere que o medo de perder um streak é maior do que o prazer da dopamina liberada quando mantemos um streak. Lembra dos vieses cognitivos? Os erros que nos fazem pensar e tomar decisões de forma irracional que expliquei anteriormente? Então, “aversão à perda” é um dos vieses cognitivos superpoderosos que influenciam nosso comportamento. 
+O que é aversão à perda? O Guia EC explica bem o trabalho científico de Amos Tversky e Kahneman: “Temos maior aversão à perda do que apreço por um ganho equivalente. Abrir mão de alguma coisa é mais doloroso do que o prazer que sentimos por recebê-la”. Temos muito medo de perder qualquer coisa que pensamos nos pertencer e esse medo nos faz agir de forma irracional. 
+O estudante Sam, entrevistado pelo Business Insider, confirma mais uma vez que a ciência do comportamento humano irracional está certa. Sam afirmou: “Eu odeio streaks porque eles te forçam a ficar no celular todos os dias. Suponha que você tem um streak de cem dias. Existe uma obrigação enorme pra manter esse streak. Se você perder um streak é como se o mundo tivesse acabado”. Preste atenção nas palavras usadas por Sam: odeio, obrigação, perder. Todas essas palavras nos levam ao viés de aversão à perda. Dizer que é “como se o mundo tivesse acabado” porque um simples número se transformou em zero no seu celular é espantador, não é mesmo? Esse é o poder do viés da aversão à perda.
+Claro que sabemos que o vídeo do Tapa na Pantera é uma obra de ficção somente usada aqui no início deste capítulo para trazer um pouco de humor. Entretanto, se a atriz do vídeo tivesse um streak com o seu uso da maconha, teria um “foguinho” com o número 10.950 ao lado, representando os seus mais de trinta anos de uso, todos os dias, sem pular um dia. Um streak de mais de 10 mil, e ela ainda diz que “não é viciada”.
+
+
+REALIDADE VIRTUAL 
+E AUMENTADA (VR E AR)
+Realidade virtual (VR – virtual reality) e aumentada (AR – augmented reality) são duas das tecnologias emergentes mais poderosas para influenciar pessoas. Imagine você imerso em um ambiente completamente diferente do que você está agora. O poder das pessoas que criam esse ambiente é maior ainda do que um simples botão ou uma caixa de seleção. 
+Pesquisas realizadas no Laboratório de Interação Virtual Humana (VHIL – Virtual Human Interaction Lab) em Stanford fazem experimentos sobre como VR e AR podem ser tecnologias utilizadas para desconstruir estereótipos, diminuir o racismo e aumentar a empatia entre as pessoas. Um dos experimentos se chama Espelho das minorias (Minorities mirror), nele uma pessoa pode “se colocar no lugar de outra” e se ver em um espelho dentro de um ambiente virtual. Os experimentos são feitos com diferentes grupos de pessoas e gêneros. Imagine uma mulher branca que, de repente, se vê no corpo de um homem negro em um ambiente virtual. Então chega outra pessoa e começa a falar coisas ofensivas sobre as características que essa pessoa vê no espelho. Anos de pesquisa mostraram que situações como essa aumentam o nível de empatia relacionado a determinados grupos de pessoas. Kenneth Seward Jr dissertou sobre isso, esperançoso, em seu artigo “Como a realidade virtual pode ser usada na luta contra o racismo e os preconceitos na sociedade”.
+
+
+PERSUASÃO E COAÇÃO: 
+OS DOIS TIPOS DE INFLUÊNCIA
+Você foi apresentado a alguns dos empurrõezinhos digitais. Porém, o mais importante é se questionar: Estou tomando uma decisão digital agora. Será que alguém já tomou por mim quando fez o design desse aplicativo? Será que preciso pedir pra sair?
+A compreensão do comportamento humano tem levado diversos produtos digitais a criarem mecanismos de dependência dos seus usuários. Mas será que essa dependência é boa? Nir Eyal, autor do livro Hooked, fala de dois tipos de influência: persuasão e coação.
+* Persuasão: influenciar pessoas a fazerem o que elas querem e precisam.
+* Coação: influenciar pessoas a fazerem o que elas não querem e não precisam.
+
+
+No início de 2018, Mark Zuckerberg, criador e presidente-executivo do Facebook, prestou depoimento ao Congresso Americano especialmente com relação ao uso de dados e respeito à privacidade dos usuários, em meio ao escândalo Cambridge Analytica, que afetou milhões de pessoas no mundo.
+Zuckerberg assumiu erros diante do congresso e duas de suas frases foram relevantes para o entendimento de como o mundo digital pode influenciar pessoas:
+“Não tivemos uma visão mais ampla da nossa responsabilidade e isso foi um grande erro. E o erro foi meu. Eu peço desculpas.” – Mark Zuckerberg 
+Claro que o erro nunca é de uma pessoa só, mas Zuckerberg assumiu a responsabilidade pela sua empresa. É importante que todas as pessoas criadoras do mundo digital tenham isso em mente! Mark também afirmou: “Nós temos a responsabilidade de não apenas construir ferramentas, mas de estarmos certos de que elas são usadas para o bem.” 
+
+
+DARK PATTERNS: QUANDO A
+INTERNET NOS MANIPULA
+A internet manipula você quando usa técnicas de coação para o influenciar a fazer coisas que você não quer e não precisa. Harry Brignull define os padrões de coação como dark patterns. Em seu site,[7] ele lista uma série de estratégias que páginas da web e outros produtos digitais usam para enganar usuários. Aqui estão algumas pra você ficar atento e não cair nas armadilhas da manipulação digital:
+* Continuidade forçada de assinatura: quando um serviço lhe oferece uma fase de experimentação grátis (trial) e depois começa a ser cobrado no seu cartão de crédito sem nenhuma notificação.
+* Jogando no carrinho de compras: quando você compra um produto on-line e outro produto é adicionado automaticamente ao seu carrinho, então você precisa pedir pra tirar do carrinho. No mundo físico nunca aceitaríamos algo assim, já imaginou você colocar um cereal no carrinho do mercado e vem uma pessoa e coloca uma caixa de leite automaticamente, e você é quem precisa tirar porque senão vai ter que pagar sem nem perceber?
+Estes são apenas dois dos meus exemplos preferidos, todos os outros estão no site www.darkpatterns.org.
+
+
+EMPURRÕEZINHOS QUE AJUDAM
+Mas existe uma luz no fim do túnel! Parte do movimento do #DigitalNudge é sobre a conscientização de que os melhores empurrõezinhos são aqueles que ajudam uma pessoa a fazer o que já precisa ser feito. É o que chamamos de resolver uma necessidade.
+
+
+Empurrõezinhos que ajudam pessoas com diabetes
+Segundo o site da Quin Tech, uma em cada doze pessoas no mundo tem diabetes, isso compreende 415 milhões de pessoas. Estima-se um gasto de 3 trilhões de reais todo ano no tratamento. 
+Meu amigo Greg tem diabetes – aprendi com ele que não deveria dizer que ele “é diabético”, mas sim que “tem diabetes”, pois a diabetes não o define. Há alguns anos atrás ele me disse que, quando estava em reuniões importantes, raramente conseguia se concentrar, pois ficava sempre “prestando atenção” no que estava sentindo, por exemplo se estava tonto ou cansado. Eram sinais que ele precisava ficar monitorando pra saber o momento certo de tomar a insulina. Ao ficar prestando atenção a esses sinais, Greg se concentrava menos na reunião, pois a nossa atenção é limitada, não conseguimos nos atentar a muitas coisas ao mesmo tempo – essa é uma das grandes limitações que a Economia Comportamental nos ensina. 
+Recentemente eu estava em uma reunião com Greg e ele me disse que não precisa mais “gastar a sua atenção” observando os seus sinais. Quando o seu nível de glicose está baixo ou alto, ele recebe uma notificação no seu bolso, porque agora ele usa um equipamento chamado Monitor Contínuo de Glicose (CGM – Continuous Glucose Monitoring). Ou seja, o gasto da atenção nos sinais e a decisão de tomar insulina agora não é mais tomada por Greg. Ele delegou essa decisão para um equipamento digital que toma a decisão por ele. Porém essa é uma energia que vale a pena delegar pra um equipamento digital, já que agora Greg usa a sua atenção para coisas mais criativas.
+Outro exemplo é da Isabella Degen, uma engenheira robótica especializada em Aprendizado de Máquina (Machine Learning ML) e Inteligência Artificial (IA). Isabella foi diagnosticada com diabetes quando era criança e diz que “como muitos, passo meus dias calculando, monitorando, analisando, lembrando, esperando e me preocupando com o impacto que cada refeição, cada atividade e cada emoção vai ter no meu corpo. Por muitos anos eu sempre sonhei em tirar esse peso e delegar tudo pra uma máquina (um computador)”. Isabella fundou, junto com Cyndi e Paul, a Quin Tech,[8] antes conhecida como Ayuda Heuristics, uma empresa com o objetivo de desafiar tudo o que se sabe hoje sobre a definição, o diagnóstico e o tratamento de diabetes e trazer novas soluções. A Quin é um #empurraozinhoqueajuda. 
+Tudo começa quando você faz o download do aplicativo Quin e ele começa a tentar ajudá-lo no seu tratamento, sugerindo, tentando, errando, acertando e aprendendo com os erros e com os acertos. Sim, isso mesmo, o aplicativo aprende com o tempo. Isso é exatamente o que chamamos de “aprendizado de máquina”, que quando computadores, aplicativos, smartphones são capazes de se aprimorar. E eles aprendem rápido, viu? 
+O aplicativo usa sensores que medem diversos eventos e situações na vida da pessoa com diabetes, como atividade física, estresse, menstruação, viagens, falta de sono, doenças e muito mais, e aprende com esses fatores. O aplicativo também conecta-se com dados vindos das milhões de outras pessoas no mundo todo e, dessa forma, constrói uma base de conhecimento sobre diabetes nunca existente antes. As fundadoras da Quin dizem que o objetivo do aplicativo é tomar o maior número de decisões possíveis para que você não precise se preocupar, nem pensar sobre quando e como agir, independentemente de onde esteja e do que esteja fazendo. Ou seja, um aplicativo pra pensar e agir por você. Parece filme de ficção científica, não é? Mas é realidade, e é de hoje!
+
+
+Empurrõezinhos que ajudam 
+motoristas com sono
+Em 2006 eu estava voltando pra casa dirigindo e estava com muito sono. O caminho demorou quase uma hora e, durante todo o trajeto, eu me segurava pra não cochilar. Colocava o som alto, dançava, dava tapinhas na minha bochecha e dizia pra mim mesmo: “Você não pode dormir, Fabio!”. Quando eu já estava a uns cinco minutos, bum! Cochilei e acordei com a batida. O motorista do carro da frente saiu gritando, muito bravo. Eu expliquei que tinha cochilado, que estava muito cansado, que estava trabalhando muito e pedi desculpas. Ninguém se machucou, acionei meu seguro e depois ficou tudo bem. Infelizmente, porém, esse não é o resultado de um cochilo pra muita gente. O Portal do Trânsito reportou que sono e cansaço representam 60% dos acidentes no Brasil. Estatísticas mundiais revelam que 40% dos acidentes nas estradas são causados por motoristas cansados. Só nos Estados Unidos, são 100 mil acidentes por ano, com 1.550 mortes.
+O Smart Cap é um boné inteligente que lê as ondas cerebrais dos motoristas e gera alertas para evitar acidentes causados por cochilos. É um dos chamados wearables, ou tecnologia vestível. A tecnologia, por meio da leitura de ondas cerebrais, identifica quando o motorista está quase cochilando e, então, vem o empurrãozinho que ajuda o motorista a não cochilar, evitando um possível acidente. Inteligente mesmo, não acha? Smart Cap é um #empurraozinhoqueajuda. 
+
+
+
+
+  
+
+________________
+
+
+RÁPIDO E
+DEVAGAR,
+DUAS FORMAS
+DE CLICAR
+
+
+UM TACO, UMA BOLA E 
+OS NOSSOS DOIS CÉREBROS
+Tente resolver a questão a seguir pensando rápido:
+* Você tem um taco e uma bola.
+* A bola e o taco, juntos, custam R$ 1,10.
+* O taco custa um real a mais do que a bola.
+* Quanto custa a bola?
+
+
+Se a primeira resposta que veio a sua cabeça foi: “A bola custa R$ 0,10”, pense um pouco mais. Se a bola custasse mesmo R$ 0,10, o taco, que custa um real mais caro, seria R$ 1,10. Nesse caso, a soma dos dois seria R$ 1,20. Sabe-se, porém, que a soma dos dois é, na verdade, R$ 1,10. Isso significa que a resposta certa para o valor da bola é R$ 0,05, concorda?
+Não se sinta mal por pensar assim, pois metade dos estudantes de algumas das melhores universidades do mundo (Harvard, Princeton e MIT) também cometeu esse erro. Na verdade, isso acontece quando pensamos rápido. Daniel Kahneman explica isso no livro Rápido e devagar: Duas formas de pensar, explicitando que temos dois agentes no nosso cérebro: um que toma decisões rápidas, porém não muito precisas, e outro mais lento, entretanto mais correto. Os dois lados são necessários. Imagine se você precisasse pensar lentamente todas as vezes que fizesse algo como andar, escovar os dentes ou dirigir. Assim, precisa-se dos dois mundos do pensamento, o devagar e o rápido, para que o dia a dia seja mais eficiente. É importante ser consciente de qual dos dois é preciso usar, dependendo da ocasião e do tipo de atividade que será realizada.
+
+
+UM IMPEACHMENT, 
+UMA INVASÃO, UMA BABÁ
+Você sabia que no dia 9 de dezembro de 2016 a presidente da Coréia do Sul, Park Geun-hye, sofreu um impeachment? A maioria das pessoas pra quem pergunto isso diz que não sabia ou que não se lembra. Porém, quando eu mostro a imagem abaixo, a maioria lembra dela.
+
+
+
+
+
+
+  
+
+
+
+Imagem do professor Robert Kelly em entrevista da BBC[9]
+
+
+
+
+Esta imagem mostra o professor Robert Kelly concedendo uma entrevista direto de sua casa à BBC News do Reino Unido. Era para ser apenas uma entrevista sobre o impeachment, mas Marion, filha de Kelly, entrou no escritório de seu pai dançando sem ter noção da seriedade daquela entrevista – pois, claro, ela tinha apenas 4 anos. Enquanto Marion dançava ao lado do seu pai, que tentou ignorar sua presença e continuou dando a entrevista como se nada estivesse acontecendo, James, seu outro filho de 8 meses, também entra na sala com seu andador. Logo depois, uma mulher entra rapidamente na sala pra retirar as crianças e a entrevista continua.
+Como a internet não perdoa nunca, ou melhor, as pessoas que usam a internet não deixam passar uma chance, depois desse episódio o Twitter estava cheio de mensagens sobre a entrada da criança na entrevista. Um tweet dizia:
+“Devia ter tratado a situação com mais naturalidade. Crianças são parte da vida e não alienígenas.”
+Seguido por este:
+“Achei que ficou mais feio a atitude dele… empurrando a menina… e fingindo que não estava vendo as crianças ali..”
+E este:
+“Hahahahaha!!!! a babá entrando igual um ninja e tentando sair sem ser vista não tem preço, melhor parte!!!!”
+Aí os tweets tomaram outro rumo depois da seguinte resposta:
+“Você percebe o nível de estereótipo quando o pessoal automaticamente diz que a mulher é a babá por ser oriental.”
+
+
+Na verdade, a mulher que entrou na sala é Jung-a Kim, ex-professora de ioga, mãe das crianças e esposa do professor Kelly. Segundo a BBC, ela e Kelly se casaram logo depois que o especialista se mudou para a Coreia do Sul.
+Fica claro que nesse momento as pessoas estavam twittando usando o seu cérebro rápido (sistema 1), problemático, cheio de estereótipos e que comete muitos erros. Jung-a Kim foi categorizada de forma errada como “a babá” quando, na verdade, ela é a mãe das crianças. 
+Mas por que pensaram que ela era a babá e não a mãe das crianças? O artigo “A polêmica sobre paternidade e estereótipos que o vídeo das crianças ‘invadindo’ a entrevista ao vivo gerou” mostra o tweet de Julia dizendo que foi “por ser oriental”. Mas ser oriental é só uma das características que coloca pessoas em “caixas”. Essas caixas geram o que a Economia Comportamental chama de atalhos cognitivos, os rápidos “se isso, então aquilo”, como, por exemplo, “se é oriental, então é a babá”. 
+Essas caixas existem e é por causa delas que chegamos a conclusões a respeito de outra pessoa por ela ser mulher, homem, hétero, homossexual, católica, brasileira, australiana, nordestina, gaúcha, negra, branca, alta ou até por estar usando uma camiseta. Todas essas características colocam as pessoas em caixas e, rapidamente, chegamos a conclusões sobre elas baseadas nas construções que temos em nossa mente. É então que atua o cérebro rápido chegando a essas suposições precipitadas. Temos estereótipos construídos que precisam ser desconstruídos para que possamos ser mais justos e para que a nossa interpretação da realidade seja mais próxima de como ela realmente é. “Precisamos falar sobre isso e desconstruir preconceitos”, como disse Ana Malvestio em seu artigo da Harvard Business Review. Ela fala sobre o pensamento rápido como no caso abaixo:
+
+
+Pai e filho sofrem um acidente terrível de carro. Alguém chama a ambulância, mas o pai não resiste e morre no local. O filho é socorrido e levado ao hospital às pressas. Ao chegar no hospital, a pessoa mais competente do centro cirúrgico vê o menino e diz: “Não posso operar esse menino! Ele é meu filho!”.
+
+
+Esse trecho também foi publicado no famoso perfil chamado Quebrando o Tabu e teve mais de 100 mil compartilhamentos, 10 mil comentários e 80 mil reações no Facebook.
+Como explicou Ana, “ao ler o texto, a maioria das pessoas fica com ar de questionamento. Como é que o menino pode ser filho da pessoa mais competente do centro cirúrgico se o pai morreu no acidente? Diversas teorias e hipóteses são levantadas sobre o caso: a mãe tinha um caso extraconjugal? Era um casal gay? O pai era adotivo? Ou qualquer coisa que possa dar sentido ao texto. O que muitos não pensam de imediato é que a pessoa mais competente do centro cirúrgico é a mãe do menino, pois mulheres não são usualmente associadas a essas atividades”.
+Esse é um exemplo do que se define como viés inconsciente de gênero, ou seja, colocamos alguém em uma caixa porque é mulher ou porque é homem. É claro que existem pessoas que conseguem entender rápida e naturalmente que se trata da mãe do menino, mas é inegável que haja associação de mulheres com certos cargos, espaços e comportamentos dentre a maioria das pessoas, e são várias dessas associações que precisamos desconstruir.
+
+
+NÃO PENSO, LOGO CLICO
+Em um mundo digital em que estamos twittando, vendo vídeos, escutando música e respondendo a e-mails, tudo ao mesmo tempo, nossa atenção está dividida. Fazemos a maioria dessas coisas com o nosso cérebro rápido, cheio de problemas, estereótipos, caixas e conclusões precipitadas – os atalhos cognitivos. É muito mais provável cometer um erro em um tweet hoje, no mundo digital, no meio desse turbilhão de outras coisas que estamos vivendo, do que antigamente, quando alguém sentava pra escrever uma carta. As distrações ao nosso redor gastam nosso processamento cognitivo e nossa energia. No mundo digital nossa atenção está dividida e fazemos a maioria das coisas com o nosso cérebro rápido, cheio de problemas. 
+Focar em uma coisa de cada vez no mundo digital diminui a probabilidade de cometer erros e de ser preconceituoso na Internet. #ficaadica
+O infográfico ao lado, chamado de “Um Minuto na Internet”[10], mostra o que acontece na internet em um minuto.
+Em um minuto acontecem mais de:
+* 41,6 milhões de mensagens enviadas no WhatsApp e Facebook Messenger.
+* 188 milhões de e-mails enviados.
+* 1,4 milhões de swipes no Tinder.
+* 694 mil horas de vídeo transmitidos pela Netflix.
+* E muito mais!
+
+
+
+
+  
+
+
+
+Será que dá tempo de parar e pensar antes de curtir, dar um swipe ou clicar? Em 2014, Mark Zuckerberg disse que usuários pediam um botão de “não curtir”, mas empresa queria evitar humilhação dos internautas. Humilhação é apenas um dos grandes riscos que um possível botão com uma reação negativa como “não curtir” pode causar. Assédio virtual (cyberbullying) é um tipo de violência praticada contra alguém por meio da internet ou de outras tecnologias relacionadas. Praticar cyberbullying significa usar o espaço virtual para intimidar e hostilizar qualquer pessoa, difamando, insultando ou atacando covardemente. 
+De acordo com a Wikipedia[11] esse tipo de assédio tem se tornado cada vez mais comum na sociedade, especialmente entre os jovens. O site Bullying Statistics publicou, entre outros números e descobertas, que “vítimas de cyberbullying tem maior probabilidade de ter baixa autoestima e de cometer suicídio”. A campanha “Pense antes de digitar – acabe com o cyberbullying” (Think before you type)[12] tem o objetivo de conscientizar as pessoas que cometem assédio virtual pois digitam usando o seu cérebro rápido, cheio de problemas e estereótipos. “Pense antes”, em outras palavras, quer dizer: “Use o seu cérebro devagar, invista um pouco mais de tempo pensando se é isso mesmo que quer digitar, pense nas consequências, seja consciente das suas limitações cognitivas e saiba que isso pode ter um impacto negativo muito sério na pessoa que está lendo do outro lado”. #ficaadica
+Em 2004, o psicólogo John Suler explicou em seu artigo “Os 6 fatores do efeito de desinibição online”, quais são os fatores, que basicamente, mudam significativamente a forma como pessoas interagem entre si quando estão em ambientes on-line:
+1.        Anonimidade: “Minhas ações não podem ser atribuídas a mim”.
+2.        Invisibilidade: “Ninguém pode julgar como eu sou nem o meu tom”.
+3.        Assincronia: “O que eu faço não tem um resultado imediato”.
+4.        Introjeção Solipsista: “Eu não estou vendo ninguém, então tenho que adivinhar quem são essas pessoas e suas intenções”.
+5.        Imaginação Dissociativa: “O mundo on-line é diferente do mundo físico, essas pessoas do outro lado não são reais”.
+6.        Minimização de Autoridade: “Não existe autoridade nenhuma no mundo on-line”.
+
+
+Muitas pessoas que estão on-line tendo atitudes e comportamentos hostis, como cyberbullying, nem sequer tem consciência disso. Elas estão agindo usando o seu cérebro rápido, todos esses efeitos estão influenciando o seu comportamento em um nível abaixo da consciência. Por isso, campanhas como “Pense antes de digitar” são importantes, elas criam um “gatilho” que pode levar o cérebro rápido ao cérebro devagar, fazendo com que, dessa maneira, a pessoa pense melhor nas consequências dos seus atos.
+Se for escrever um comentário negativo em qualquer rede social (Facebook, Instagram, WhatsApp), pense um pouco antes. Reflita por dez minutos pelo menos. Pense antes de digitar. #ficaadica
+Só em 2016 o Facebook decidiu lançar globalmente botões além do “curtir”. São as chamadas “reações”: amar (amei), rir (haha), se impressionar (uau), ficar triste (triste) ou se irritar (grr). Diversos estudos foram feitos, com uma preocupação enorme, para saber como essas reações poderiam influenciar o comportamento on-line. Perceba que as reações um pouco negativas são as de “ficar triste” e “se irritar” e, mesmo assim, não existe intenção de ofender a outra pessoa, é uma expressão de como o usuário que está apertando aquele botão se sente. Parabéns ao Facebook!
+
+
+  
+
+
+
+Depois de expandir minha consciência e compreender que tenho dois cérebros – um rápido e um devagar – e dos números de cliques na internet citados acima, além da inspiração do primeiro filósofo moderno, Descartes, que disse “penso, logo existo”, tenho certeza de que, assim como os 3,2 bilhões de cidadãos digitais, eu “não penso, logo clico”, e isso é perigoso.
+
+
+GORILAS, MENTIRAS E E-MAILS INVISÍVEIS
+Imagine que alguém pediu para você assistir a um vídeo de seis pessoas brincando com bolas de basquete. Dos seis sujeitos, metade está com camiseta branca e metade com camiseta preta. Seu objetivo é prestar muita atenção e contar quantas vezes as pessoas com camiseta branca passam a bola entre si.
+Você assiste ao vídeo e, ao fim, lhe perguntam se havia alguma coisa diferente no filme. Você responde que não e confirma acertadamente o número de passadas de bola. Perguntam, então, se havia um gorila no vídeo. Você se assusta e diz: “Um gorila?! Claro que não!”.
+
+
+  
+
+
+
+
+
+Esse experimento foi proposto pelos psicólogos Daniel Simons e Christopher Chabris. Metade dos voluntários não viu o gorila que apareceu no meio do vídeo, olhou para a câmera, bateu no peito e saiu. Esse resultado chocante revela que as pessoas, em geral, estão tão focadas em um evento que se tornam “cegas” a outros.
+Esse e outros estudos comprovam o que é conhecido como cegueira não intencional. Tal situação é definida como a falha humana em detectar e perceber um estímulo ou evento inesperado quando o indivíduo está focado em outra tarefa que requer a sua atenção. Basicamente, quando se está muito focado em uma tarefa, é difícil de perceber coisas importantes que acontecem ao redor.
+Quem nunca passou por uma situação clássica em que alguém pergunta: “Você leu aquele e-mail?”. E você pensa: “Qual e-mail? Não me lembro de ter recebido”.
+Eu fiz um experimento com centenas de pessoas chamado Gorila Digital. Nele eu peço pra que elas respondam um formulário com três perguntas. Todo mundo faz isso e, depois de responderem, eu pergunto se alguém leu o texto que havia no início do formulário. Esse texto inicial dizia para os participantes não responderem a pergunta 3 do formulário, mas a maioria das pessoas não o leu, elas simplesmente concordam e começam a responder, ou seja, esse texto é um gorila que passa de forma invisível por nós. Quantas e quantas vezes já aceitamos termos de condições sem ter lido? Juliana Maian diz que a frase “Li e aceito os termos” é a maior mentira do mundo.
+
+
+Olá, vamos começar? Obrigado por participar :)
+35 mil. Essa é a quantidade média de decisões que um ser humano toma por dia. Significa mais ou menos uma decisão a cada dois segundos. Dessas, já imaginou quantas são decisões digitais, ou seja, as que tomamos usando equipamentos como smartphones, tablets, computadores, wearables etc.? Ou que os equipamentos digitais, muitas vezes, tomam por nós? Para mostrar que vc é consciente das suas decisões e que presta atenção em tudo que lê no mundo digital, não responda a pergunta 3, somente responda as perguntas 1 e 2. Ao clicar em “Começar” vc concorda em participar deste experimento. Viéses inconscientes (Cognitive Biases): erros sistemáticos na nossa forma de pensar e tomar decisões. Da mesma forma que nas ilusões de ótica vemos algo diferente da realidade, quando tomamos decisões os viéses nos influenciam a levar em consideração uma realidade limitada. Há várias décadas cientistas como o ganhador do prêmio nobel Daniel Kahneman estudam e catalogam esses viéses para que possamos entender melhor o que eles chamam de irracionalidade do ser humano.
+
+
+Mais um exemplo é de outro experimento que fiz quando palestrei no TEDx. No e-mail de confirmação de inscrição tinha o seguinte texto:
+
+
+Uma das palestras deste ano é sobre decisões digitais automáticas. 
+Ao se inscrever no TEDxJoãoPessoa, você está automaticamente cedendo 
+o poder de todas as decisões que você vai tomar na sua vida ao speaker 
+que vai falar sobre decisões. Caso você não queira ceder, é fácil, basta 
+pedir pra sair aqui neste link: http://tiny.cc/TEDxJoaoPessoaDecisoes
+
+
+Havia mais de quatrocentas pessoas inscritas e apenas treze clicaram no link. Essa foi uma decisão Capitão Nascimento que tomamos e os participantes tinham que “pedir pra sair”, mas menos de 4% fez isso. Não porque queriam que eu tomasse todas as decisões da vida delas, mas porque não leram e essa condição foi imposta sem saberem.
+
+
+  
+
+________________
+
+
+AS 5 HABILIDADES 
+DOS CONSCIENTES DIGITAIS
+Expandir a Consciência Digital é algo que queremos, mas como isso acontece? O que significa ter um nível de Consciência Digital alto? O que significa ser consciente digital? Por onde começar? 
+Na verdade não é simples como apertar um botão e simplesmente passar de inconsciente para consciente. É uma jornada. Não existe um grupo de pessoas que são inconscientes e outro grupo de pessoas conscientes. Cada um está passando por um processo, uma jornada de conscientização. 
+O dicionário define consciência como uma capacidade da mente de perceber a relação entre si e um ambiente. No caso da Consciência Digital, o “ambiente” é o mundo digital: smartphones, tablets, computadores, sensores e todas as tecnologias que fazem parte da nossa vida. Definimos, então, a Consciência Digital como a capacidade da mente de perceber a relação entre si e o mundo digital. A capacidade de percepção desse ambiente complexo acontece por meio de 5 habilidades, também conhecidas como os 5 Cs da Consciência Digital.
+
+
+5 CS
+
+
+1.        CONTROLE DE DECISÕES DIGITAIS
+        “Minhas decisões, minhas regras”
+
+
+2.        EQUILÍBRIO CONECTADO-DESCONECTADO
+        “Às vezes é preciso desconectar para se conectar”
+
+
+3.        CONHECIMENTO DOS VIESES INCONSCIENTES
+        “Eu vejo vieses inConscientes!”
+
+
+4.        CONCENTRAÇÃO E FOCO DIGITAL
+        “Quando focamos em tudo, não focamos em nadA”
+
+
+5.        PENSAMENTO CRÍTICO
+        “Duvide antes de acreditar, verifique antes de repassar”
+
+
+
+
+
+
+1.        CONTROLE DE DECISÕES DIGITAIS 
+“Minhas decisões, minhas regras”
+Um dia desses eu estava reservando uma estadia em um hotel para uma das minhas viagens. Entrei em um dos sites mais famosos para procurar hotéis, busquei a cidade e as datas da viagem e apareceram algumas opções disponíveis. Cliquei em uma delas e, quando eu estava vendo o quarto que me interessou, apareceram mensagens em vermelho dizendo:
+* “Hotel em alta demanda”.
+* “Este é o último quarto disponível neste hotel”.
+* “16 outras pessoas estão vendo este quarto agora”.
+* “Preço promocional expira em (com um relógio contador, parecendo uma bomba de filme de ação que vai explodir se eu não clicar rápido em comprar!)”.
+
+
+Algo dentro de mim me dizia: Fabio, clica logo em comprar antes que uma dessas 16 pessoas aí clique. É o último quarto deste hotel que está em alta demanda! Parei, respirei fundo e pensei: será que é este quarto mesmo que eu quero? Será que essas mensagens são todas verdadeiras ou são empurrõezinhos digitais para me influenciar a comprar? 
+Até hoje não sei se eram verdadeiras ou não e, exatamente por isso, acho melhor não citar o nome do site. Mas, mesmo sem ter certeza, não comprei aquele quarto. Não cliquei de imediato, pensei melhor e tive a consciência de que comprar por aqueles motivos não seria uma decisão que eu estaria tomando. O controle não era meu. Eu olhei melhor o preço, a localização do hotel e tomei minha própria decisão baseada nos meus parâmetros, nos meus motivos, nas minhas razões e nas minhas regras, e não nas normas que algum site ou aplicativo estava tentando impor pra mim. Claro que muitas vezes essas informações são mesmo verdadeiras e alguns ambientes digitais tentam nos influenciar de forma boa, tentam usar da persuasão e não da coação para influenciar uma decisão. O mais importante é aprender a identificar quando a tentativa de influenciar está acontecendo e ter controle sobre nossas decisões. 
+A ciência já comprovou que existem inúmeras formas de influenciar alguém a escolher, comprar, entrar, assinar, pedir, enviar, aceitar, buscar, clicar ou, basicamente, tomar decisões no mundo digital. Sites, aplicativos e todas as formas de interação que temos digitalmente usam ferramentas poderosas para influenciar pessoas a fazer coisas que elas nem sabem que estão fazendo. Pessoas compram sem saber o que estão comprando, dão acesso aos seus dados pessoais sem saber exatamente para quem, clicam, aceitam, decidem e depois precisam arcar com as consequências de decisões que acham que tomaram de forma consciente e acham que tiveram controle sobre elas, mas na verdade foram fortemente influenciadas. 
+Pessoas que possuem a habilidade de Controle de decisões digitais sabem identificar quando estão sendo influenciadas na internet e conseguem tomar as próprias decisões. 
+
+
+Por onde começar e como 
+desenvolver esta habilidade?
+A atitude mais importante para desenvolver o controle sobre as suas decisões digitais é se perguntar quais são os mecanismos de influência que um site ou um aplicativo possa estar usando para influenciar a sua decisão. Estudar esses mecanismos e se aprofundar neles também vai ajudar, já que, se você não conhece como é influenciado e manipulado, não vai conseguir se defender. 
+
+
+2. EQUILÍBRIO CONECTADO-
+        DESCONECTADO
+“Às vezes é preciso desconectar para se conectar”
+Em 2018 eu tirei um sabático de nove meses, foi uma das experiências mais sensacionais da minha vida. Um dos lugares que eu visitei foi Paris e, claro, não pude deixar de ir ao museu do Louvre. Lá percebi que muitas pessoas chegavam na frente da Mona Lisa, tiravam uma selfie e iam embora sem nem sequer observar o que estava ali na frente delas: uma das pinturas mais conhecidas e famosas do mundo, a mais notável obra de Leonardo da Vinci estava bem ali na frente delas e nem olharam para ela. Por quê? Porque o mais importante era tirar uma selfie e postar nas redes sociais pra mostrar que aquela pessoa esteve ali, que viu a Mona Lisa. Mas será que viu mesmo? Será que vivenciou aquele momento? Será que teria sido o mesmo que buscar na internet uma foto da Mona Lisa e olhar pra ela? 
+Percebi que isso acontece em vários outros momentos da vida e é importante estar desconectado para conseguir estar presente e viver de verdade aquele momento que acontece à nossa volta. Não só com uma obra de arte, um pôr-do-sol, um show que a estamos assistindo ao vivo ou um jogo de futebol no estádio, mas também quando pessoas importantes estão conosco. Um jantar de família, um aniversário de amigos, um café da manhã cotidiano com alguém que amamos, quando em vez de perguntar “Como foi a sua noite? Dormiu bem? Você teve algum sonho ontem à noite?”, escolhemos ficar olhando para o celular – muitas vezes só passando o feed de outras pessoas. Nesses casos, o mundo digital em vez de nos ajudar a nos conectar mais, nos desconecta da realidade do que acontece à nossa volta. 
+A tecnologia veio ajudar, aproximar e conectar, mas, às vezes, ela atrapalha, afasta e desconecta. Eu viajo bastante e, quando estou longe, tento usar vídeo conferências para me comunicar com as pessoas que eu amo e que estão distantes. Trabalho com pessoas distribuídas pelo mundo todo e uso a tecnologia para me conectar com elas. Mas quando existem momentos e pessoas na minha frente, fisicamente ali, eu preciso me desconectar do digital pra me conectar com o momento presente. 
+Esse Equilíbrio Conectado-desconectado é essencial para o nosso bem-estar digital, ou digital wellbeing, termo criado pelo Google em 2018. O Android é o sistema base para mais de 2 bilhões de usuários no mundo todo e o Google compreendeu como esse equilíbrio é tão importante que existe agora uma funcionalidade no Android 9 que ajuda a consegui-lo. 
+Pessoas que possuem a habilidade de equilíbrio conectado-desconectado sabem controlar o seu tempo de tela em celulares, assistindo a séries, navegando nas redes sociais e usando todos os equipamentos digitais. Elas sabem quando é importante ficar on-line e quando é preciso se desconectar para se conectarem com o mundo off-line.
+
+
+Por onde começar e como 
+desenvolver esta habilidade?
+O primeiro passo é o autoconhecimento digital, compreender sua presença atual no mundo digital. Quanto tempo fica no celular ou em outras telas? Quais aplicativos e sites usa? Todas as vezes que estiver imerso no mundo digital, pergunte a si mesmo se existe alguma coisa coisa acontecendo fora dele que deveria ter mais da sua atenção. Em momentos de reuniões com pessoas, priorize as interações físicas, conversas olho no olho mais do que o seu celular. Se alguém ao seu lado estiver conectado e você quiser trazer um pouco mais de consciência para essa pessoa, fale sobre a habilidade, converse sobre os benefícios de se desconectar para se conectar. 
+
+
+3. CONHECIMENTO DOS 
+        VIESES INCONSCIENTES
+“Eu vejo vieses inConscientes!”
+Anteriormente, quando expliquei sobre a habilidade de controle de decisões digitais, contei a minha experiência reservando um hotel e o site tentou me influenciar com algumas mensagens bem persuasivas, lembra? 
+Por trás de cada uma dessas mensagens existe algo muito poderoso chamado vieses inconscientes, já citados antes. Vieses inconscientes são erros sistemáticos na nossa forma de pensar e tomar decisões. Quando algum viés é ativado por meio de um gatilho, somos influenciados a tomar uma decisão que, muitas vezes, sem esse gatilho, não tomaríamos. 
+Veja abaixo qual viés está sendo usado para influenciar a decisão de agendar o hotel em cada uma das mensagens exibidas pra mim:
+* Hotel em alta demanda e 16 outras pessoas estão vendo este quarto agora:
+   * Efeito adesão: a tendência de fazer coisas porque muitas outras pessoas fazem a mesma coisa. 
+   * “Já que todo mundo está fazendo isso, vou fazer também.”
+
+
+* Este é o último quarto disponível neste hotel:
+   * Viés da escassez: assumimos que o que é escasso é mais valioso do que o que é abundante. 
+   * “Tem pouco, vale muito.”
+
+
+* Preço promocional expira em:
+   * Aversão à perda: tendência dos indivíduos a serem mais afetados pelas perdas do que pelos ganhos.
+   * “Se eu não comprar agora, vou ficar sem.”
+
+
+Existem mais de 150 vieses cognitivos catalogados pela ciência comportamental – só citamos três aqui. Quando comecei a estudar os vieses, passei a vê-los em todos os lugares e situações – inclusive existe um viés que explica porque isso aconteceu, é o chamado viés da confirmação, que nos faz buscar uma informação que comprove algo que queremos confirmar. 
+Pessoas que possuem a habilidade de vieses inconscientes conhecem e entendem os vieses e os gatilhos mentais que influenciam as decisões no mundo digital, sabem identificar quando algum viés ou gatilho está sendo usado pra influenciar uma decisão e não se deixam ser enganadas ou manipuladas. 
+
+
+Por onde começar e como 
+desenvolver esta habilidade?
+O melhor caminho inicial é conhecer alguns vieses já catalogados e tentar identificar situações no seu dia a dia em que algum deles esteja presente. Essas situações podem ser tanto no mundo físico quanto no mundo digital, dessa forma você vai aprender sobre vieses inconscientes e vai treinar seu cérebro para identificá-los. Tenho certeza de que o mesmo que aconteceu comigo vai acontecer com você! Lembra-se do menino do filme O Sexto Sentido que dizia “Eu vejo gente morta”? Então… “Eu vejo vieses inConscientes”.
+  
+
+REFERÊNCIAS DOS VIESES COGNITIVOS
+        www.pt.wikipedia.org/wiki/Lista_de_vieses_cognitivos
+        www.tutor2u.net/economics/reference/
+behavioural-economics-scarcity-bias
+        www.medium.com/al%C3%A9m-do-roteiro/
+a-maior-lista-de-vieses-cognitivos-que-voc%C3%
+AA-j%C3%A1-viu-provavelmente-3b57e1350be5
+        www.economiacomportamental.org/
+aversao-a-perda-loss-aversion/
+
+
+
+
+
+
+
+
+
+
+
+
+4. CONCENTRAÇÃO E FOCO DIGITAL
+“Quando focamos em tudo, não focamos em nadA”
+Você já ficou horas concentrado lendo um livro? Já sentou pra tocar um instrumento musical e direcionou todo o seu foco pra isso? Já andou de moto por horas focado e concentrado na estrada? Livros, instrumentos musicais, motos e outros, são meios que nos ajudam a exercitar dois elementos fundamentais da nossa mente: concentração e foco. Mesmo quando não estamos fazendo uma dessas atividades, é possível exercitar essa habilidade de concentração mantendo o foco em algo que acontece com basicamente todos os seres humanos o tempo todo: nossa respiração. Focar a respiração é um dos tipos de meditação mais comuns e simples, pois todos estamos respirando o tempo todo. Mas não vamos confundir comum e simples com fácil. Não é fácil atingir esse nível de foco e deixar todos os pensamentos que estão aparecendo na nossa mente simplesmente passarem, já tentou? 
+E você já tentou pegar o celular e focar em uma coisa só por quinze minutos? Você consegue? E por um hora? Claro que não, porque antes do primeiro minuto já chegam três notificações no WhatsApp e oito curtidas no Facebook que invadem a sua atenção e fazem você clicar nas notificações pra ver quem está falando com você. Acontece que geralmente não é nada importante ou apenas mais um meme no grupo da família e curtidas em uma foto que você nem se lembrava mais de ter postado. 
+Distrações e mais distrações atrapalham a sua concentração. O pior é que, se essas notificações não chegam, parece que tem algo de errado e você vai lá checar manualmente, passar o feed, ver se aconteceu alguma coisa. Estamos cada vez mais viciados em checar se algo aconteceu em nosso celular. 
+Esse medo que sentimos o tempo todo de estar perdendo alguma coisa nas redes sociais tem até um nome, chama-se FOMO (fear of missing out, ou medo de perder). Essa ansiedade digital é caracterizada pelo “desejo de permanecer continuamente conectado com o que os outros estão fazendo”. O termo FOMO foi citado pela primeira vez em 2000 por Dan Herman e definido anos depois por Andrew Przybylski e Patrick McGinnis como o medo de que outras pessoas tenham boas experiências que você não tem. O impressionante é que esse medo está ligado a um dos vieses cognitivos chamado aversão à perda, ou seja, tudo está conectado com a ciência comportamental. Medo, o maior sentimento do FOMO, é um dos sentimentos mais negativos que podemos sentir. Sentir medo não nos ajuda a seguir em frente, a progredir ou avançar positivamente na vida. Por isso, sou muito mais adepto do JOMO[a] (joy of missing out, ou a alegria de viver o aqui e o agora sem a ansiedade de estar em todos os momentos). 
+A influencer fit carioca Carol Buffara, adepta da filosofia JOMO, deu seu depoimento a Revista Glamour: “O excesso de conectividade estava minando o meu foco do momento presente, diminuindo a minha produtividade e prejudicando a interação com outras pessoas. Só tive a prova concreta disso quando passei férias com minha família na França, em setembro passado. Não postei todos os treinos, nem todos os pratos, looks ou passos. Resultado: mais momentos especiais em grupo e três livros lidos em apenas vinte dias!”.
+Por muito tempo eu tentei focar e me concentrar em uma coisa que queria fazer, mas não conseguia, pois a minha atenção era constantemente desviada. Era como se a minha mão ficasse com um formigamento querendo checar se chegaram mensagens, se eu recebi curtidas etc. Enquanto eu tentava fazer a coisa A, eu poderia estar fazendo B, C, D, E no celular, no computador, no tablet. Apesar de ter certeza de que eu estava fazendo a coisa mais importante do momento, eu tinha muito a sensação de que eu deveria estar em outra tela ou em outro aplicativo, fazendo outras coisas. Eu ficava com dezenas de abas abertas no meu computador, dezenas de aplicativos abertos e sendo usados ao mesmo tempo e não conseguia focar em nada. Isso porque quando focamos em tudo, não focamos em nada.
+Hoje eu tenho diversas técnicas que me ajudam a focar e a me concentrar exatamente no que eu quero e preciso fazer tanto no mundo digital quanto no físico. Vou falar sobre a minha jornada, por onde comecei e como desenvolver essa habilidade de concentração e foco digital. 
+
+
+Por onde começar e como 
+desenvolver esta habilidade?
+O primeiro passo é fazer uma coisa de cada vez. Um dos nossos maiores inimigos no foco é tentar fazer várias coisas ao mesmo tempo. 
+Sempre que estiver em um meio digital, pergunte a si mesmo: “Qual é a única coisa que eu estou fazendo agora?”. É importante que essa coisa única tenha um objetivo, então é bom definir isso também. 
+Eu uso algumas ferramentas para isso e uma das que mais funciona é o quadro Kanban. Ele mostra o que eu preciso fazer, o que eu estou fazendo e o que eu já fiz (fazer, fazendo, feito). Na coluna de “fazendo” só pode existir uma coisa de cada vez. Não é produtivo estar preparando aquela apresentação importante, assistindo a um vídeo no YouTube e passando o feed do Instagram ao mesmo tempo. Esse quadro pode ser físico com post-its ou digital – uma ótima ferramenta digital é o Trello. 
+Uma situação muito frequente é estarmos fazendo algo e lembrarmos que temos que fazer outra coisa. Agora mesmo enquanto eu estou aqui escrevendo, lembrei que tinha que enviar um e-mail. Em vez de parar o que eu estou fazendo e ir enviar o e-mail, eu coloquei um item na coluna “fazer” do meu Trello para que eu não esqueça de fazer isso depois.   
+FAZER             FAZENDO             FEITO
+
+
+
+
+
+
+Um exemplo de Quadro Kanban
+Uma outra ferramenta muito produtiva que eu uso é a chamada Técnica Pomodoro, desenvolvida no fim dos anos 1980 por um universitário italiano que teve a ideia genial que promete aumentar sua produtividade e sua habilidade de gerenciar o seu tempo. A técnica é aplicada criando fluxos de concentração intensa de 25 minutos. Francesco Cirillo, criador da técnica que escreveu até um livro sobre isso, utilizou um timer de cozinha em formato de um tomate – daí o nome pomodoro – para focar durante esses 25 minutos. É importante que logo depois desse tempo exista uma pausa de cinco ou dez minutos. Dessa forma, o seu cérebro sabe que terá um prêmio por ter focado 25 minutos. Durante a pausa, faça algo não relacionado ao objetivo que estava tentando atingir, de preferência que não seja no mundo digital. Siga os ciclos foco-pausa-foco-pausa. 
+Claro que a técnica Pomodoro é apenas uma das formas de atingir o foco. De forma geral, o importante é que você faça uma coisa de cada vez e que se concentre nisso, diminuindo as distrações. Para obter Concentração e foco digital é preciso criar fluxos de concentração intensa com pausas intercaladas. 
+Além de fazer uma coisa de cada vez, tente fechar o máximo de aplicativos, abas e programas abertos para que essas janelas abertas não sejam convites para uma distração. Neste momento, por exemplo, estou escrevendo este livro com somente duas abas abertas: a janela que estou escrevendo e o Spotify – porque estou escutando uma playlist de concentração com música instrumental para que nenhuma distração externa possa tirar minha concentração do livro. 
+Desabilite praticamente todas as notificações dos seus aparelhos digitais. Vá nas configurações e decida quais aplicativos tem o poder de distrair você. Lembre-se: é você quem decide, não eles. Você tem o poder! No WhatsApp, especificamente, sugiro silenciar todos os seus grupos e a maioria das pessoas que não são importantes pra você. Deixe com as notificações habilitadas apenas pessoas pra quem você quer dar o poder de distraí-lo. 
+Pessoas que possuem a habilidade de Concentração e foco digital conseguem atingir seus objetivos utilizando os equipamentos digitais ao seu favor.
+
+
+5. PENSAMENTO CRÍTICO
+“Duvide antes de acreditar, 
+verifique antes de repassar”
+Se eu for no Google hoje e digitar a palavra consciência o que você imagina que o ele autocompleta como sugestões pra mim? Existem duas listas muito diferentes que aparecem:
+1. Se eu estiver com a minha conta pessoal do Google
+2. Se eu estiver no modo “anônimo” do Google
+
+
+  
+
+
+
+Por que os resultados são diferentes? Porque a internet não é imparcial. Se você procurar pela mesma palavra, é bem provável que virá uma outra lista de sugestões. Quando perguntamos para a internet coisas objetivas como a conversão entre 10 kg em libras, por exemplo, claro que a resposta será a mesma independentemente de quem pergunte. Mas se buscarmos a internet para criar uma opinião sobre alguma coisa (assunto político ou outros temas subjetivos que podem ser interpretados de diversas formas), a internet não é imparcial. Nós confiamos ao Google a verdade absoluta sobre muita coisa. Você já esteve em uma conversa de mesa de bar ou restaurante quando surgiu uma dúvida sobre alguma história ou fato e alguém pegou o celular pra buscar no Google? Eu já passei por isso diversas vezes! No caso de temas subjetivos, isso pode gerar mais conflitos ainda se uma pessoa achar um resultado e a outra encontrar algo diferente. 
+Além da parcialidade digital e do fato de que, dependendo de onde e de quem busca algo, o resultado é diferente, também existem informações que não são verdadeiras percorrendo a internet em diversos canais, o que é pior ainda. Essas são as famosas fake news. 
+Esse problema é ainda mais sério porque notícias, informações e dados são repassados de uma pessoa pra outra em diversos canais – sendo um dos mais comuns hoje o WhatsApp –, e muita gente ainda acredita em tudo que lê ou vê. 
+Na minha jornada de busca pela expansão da minha Consciência Digital, eu sempre fico de olho quando encaminham algo pra mim, principalmente em grupos. Por diversas vezes eu já busquei se aquela informação era verdadeira e verifiquei que não era. O que fazer? Eu conversei e ajudei a expandir a consciência das pessoas daquele grupo, explicando o meu processo de questionamento e como eu encontrei que aquilo era uma fake news. Às vezes as pessoas gostam porque aprenderam, às vezes elas se sentem envergonhadas em ter compartilhado algo que não era verdade, mas também aprendem com isso e expandem sua consciência, algo que fará elas se questionarem da próxima vez se devem mesmo compartilhar algo antes de verificar. 
+Guido Lemos é um pesquisador da Universidade Federal da Paraíba e fez um experimento com o programa Fantástico, da Globo, para mostrar o processo de criação e propagação de uma notícia falsa. Foi criada uma notícia sobre um vidente russo que havia feito uma previsão dizendo que o Brasil seria campeão da Copa do Mundo de 2018. A notícia foi propagada para mais de 250 mil pessoas. Guido falou sobre o experimento na sua palestra no palco do TEDx[13] e eu tive a grande felicidade de ser o coach dele como palestrante. Trabalhamos juntos na criação da palestra e gostei muito de uma frase que criamos juntos para resumir como devemos agir com relação ao tema: No mundo das fake news duvide antes de acreditar, verifique antes de repassar, não seja cúmplice! Quando você encaminha algo é a sua palavra que está sendo passada, é a sua credibilidade. 
+
+
+Por onde começar e como 
+desenvolver esta habilidade?
+O primeiro passo é exatamente a frase-chave citada: duvidar sempre antes de acreditar e verificar sempre antes de repassar. Ter a consciência de que absolutamente tudo na internet pode não ser verdade é importante, mas é bom termos algumas fontes confiáveis de informação, como sites em que confiamos para buscarmos a informação e verificarmos sua veracidade. 
+Fica como próximo passo que você crie uma lista de sites em que você confia, páginas com credibilidade nas quais você irá buscar se algo é mesmo verdade ou não. É importante também conhecer sites que são focados em achar fake news e publicar que uma determinada notícia é falsa. Um no qual eu confio é o www.boatos.org, mas recomendo que você crie a sua lista. A principal dica é aquela e vou repetir: duvidar sempre antes de acreditar, verificar sempre antes de repassar. 
+Pessoas que possuem a habilidade de pensamento crítico têm a habilidade de diferenciar o que é verdadeiro e falso na internet; não distribuem notícias e informações falsas (fake news) e sabem exatamente como e onde buscar a verdade.
+
+
+  
+
+
+
+
+
+________________
+
+
+INTELIGÊNCIA ARTIFICIAL PRECONCEITUOSA
+MÁSCARAS BRANCAS, OLHOS FECHADOS 
+E PRECONCEITOS DIGITAIS
+Imagine uma criança que está com uma maçã na mão e uma pessoa adulta diz: “Maçã!”. Logo em seguida, a criança repete: “Maçã” e, claro que às vezes vai ser “Mafã”, às vezes “Massa”, mas, depois de algumas tentativas, ela aprende que aquilo é uma maçã. Depois de alguns dias, a criança vê uma maçã e, sem que nenhum adulto diga nada, ela aponta e diz: “Maçã”. Essa criança passou por duas etapas – treinamento e reconhecimento:
+1.        Treinamento é a fase quando alguém aprende o que é alguma coisa.
+2.        Reconhecimento é quando alguém reconhece alguma coisa baseado no que aprendeu.
+Estamos sempre passando por essas duas fases na nossa vida. Sempre aprendendo e reconhecendo, e aprendendo novamente e reconhecendo de novo.
+Algumas semanas depois a criança vê uma maçã verde e não diz “maçã”. Por quê? Porque quando ela foi treinada para aprender o que era uma maçã, a maçã verde não fez parte do seu treinamento. Agora a criança não sabe que fruta é aquela. Embora exista uma semelhança, a cor é outra, às vezes o tamanho também é diferente, e agora? Ela terá que ser treinada novamente para ampliar o seu conhecimento de mundo e aprender que a maçã verde também é maçã.
+Com os computadores e equipamentos digitais também existe um processo parecido com esse de treinamento e reconhecimento. Existe uma forma de fazer isso chamada aprendizagem profunda (deep learning) que chama essas duas etapas de treinamento e inferência – mas vamos chamar a fase de inferência de “reconhecimento”, fica mais fácil, não é mesmo? 
+A imagem abaixo, inspirada em uma do blog da Nvidia[14], explica muito bem a diferença entre essas duas fases com um exemplo de treinamento com fotos de gatos.
+
+
+  
+
+
+
+O seu celular pode categorizar todas as fotos que você já tirou e saber se as fotos são de maçã ou não. Na verdade, esse processo é bem mais avançado do que isso! Hoje os computadores conseguem categorizar fotos e saber quem está nela, isso se chama reconhecimento facial. Você pode tirar fotos de dezenas de pessoas e tanto o Google Photos, quanto o Facebook e outros softwares de reconhecimento facial agrupam fotos de pessoas parecidas e até mesmo sabem quem é ela. 
+O primeiro passo neste processo é identificar que em uma foto existe uma pessoa e não uma maçã. Para isso o computador é “treinado” com exemplos de pessoas e de maçãs:
+* Fotos de pessoas: “Computador, essas são fotos de pessoas”.
+* Fotos de maçãs: “Computador, essas são fotos de maçãs”.
+Como vimos acima, na Inteligência Artificial essa etapa também se chama de treinamento. Agora imagine que você fez o download de um desses softwares de reconhecimento facial porque quer categorizar as pessoas que você conhece nas fotos do seu celular e percebe que o aplicativo nunca reconhece você em nenhuma das fotos que você tira. 
+Você faz alguns testes, tira fotos de vários amigos e amigas e descobre que o aplicativo reconhece, sim, o rosto de algumas pessoas e de outras, não. O seu é um dos rostos que nunca é reconhecido. Simplesmente aquele aplicativo não sabe que você é uma pessoa. Joy Buolamwini é uma estudante do MIT que passou por uma situação parecida quando descobriu que um software de reconhecimento facial não reconhecia seu rosto, mas sim o de outras pessoas. Pior ainda foi quando ela descobriu que esse software não reconhecia o rosto de pessoas negras porque quando o software passou pelo processo de “treinamento”, as pessoas que estavam treinando não pensaram em mostrar fotos de pessoas negras para ele e dizer: “Computador, este é um rosto”. 
+É esse tipo de problema que Joy tem discutido e pesquisado com o seu projeto InCoding (inclusive coding, ou código com inclusão).[15] Joy usou por um tempo uma máscara branca e mostrava que sem a máscara o software não reconhecia seu rosto, e com a máscara, sim. Ou seja, o software acha que uma máscara é um rosto, mas que um rosto real não é. Um absurdo de um computador preconceituoso que gerou um preconceito digital.
+
+
+  
+
+
+
+
+
+Preconceito digital é o que acontece quando computadores, algoritmos, Inteligência Artificial e robôs chegam a conclusões erradas que diferem da realidade porque foram treinados e aprenderam com dados que não representam o mundo como ele é.
+Mas os computadores não têm culpa. A culpa é da falta de diversidade e de inclusão nos dados de treinamento, as informações com as quais a Inteligência Artificial aprende. Inclusão e diversidade são dimensões muito importantes no processo de treinamento de aplicativos com Inteligência Artificial.
+Um outro exemplo de preconceito digital aconteceu quando Richard Lee, descendente de asiáticos, tentou renovar seu passaporte na Nova Zelândia utilizando o robô muito moderno que reconhece pessoas. O robô disse que a foto não poderia ser aceita porque “os olhos do sujeito estão fechados”.[16]
+Lembre-se: se você não incluir conscientemente, vai excluir inconscientemente.
+Richard disse que não ficou chateado pois esse tipo de tecnologia é “recente e não sofisticada”. O problema aí não é sofisticação, Richard, mas sim falta de diversidade nos dados de treinamento. É falta de um olhar mais amplo e com inclusão no momento em que lidamos com esse tipo de tecnologia. 
+Um porta voz do governo da Nova Zelândia disse que cerca de 20% das fotos enviadas on-line são rejeitadas por diversos motivos. Felizmente Richard teve o seu passaporte renovado sem maiores problemas, mas quantas outras pessoas não tiveram a mesma “sorte”? Esse exemplo foi relatado com mais detalhes no artigo “Robô da Nova Zelândia fala que cidadão com descendência asiática deve abrir os olhos”. É um caso simples de renovação de passaporte, mas e se algum cidadão não tiver acesso à saúde, por exemplo, porque um computador preconceituoso pensa que essa pessoa não é uma pessoa?
+Basicamente, essa tecnologia que não reconhece o rosto de pessoas negras ou que pensa que uma pessoa descendente de asiáticos está com os olhos fechados é uma Inteligência Artificial preconceituosa.
+
+
+UM JUIZ DIGITAL IRRACIONAL 
+E PRECONCEITUOSO
+Em novembro de 2016 foi publicado no Olhar Digital um artigo com o título “Inteligência artificial julga se pessoa é culpada ou inocente pelo rosto”. Claro que, rapidamente, minha atenção foi capturada e fiquei curioso pra ler. “Pesquisadores realizaram um estudo para verificar se a Inteligência Artificial consegue identificar se as pessoas são criminosas ou não apenas pelos seus traços físicos.” Ou seja, um computador foi treinado com fotos de pessoas que foram julgadas e consideradas culpadas ou inocentes. Vamos chamar esse computador de “juiz digital”. O juiz digital passou por um processo de treinamento de Inteligência Artificial e aprendeu como são rostos de pessoas culpadas e como são os de pessoas inocentes. Para o juiz digital “pessoas com bocas menores, mais curvas nos lábios superiores e olhos mais juntos são mais propensas a serem criminosas. Para chegar às conclusões, o sistema analisou 1.856 rostos de homens com idades entre 18 e 55 anos. Delas, 730 fotos pertenciam a criminosos, mas não eram fotos deles na cadeia”.
+A frase que mais me surpreendeu no artigo foi que “ao contrário de um juiz humano, o algoritmo de visão computacional (juiz digital) não tem absolutamente nenhuma visão subjetiva, emoção ou preconceito”. Será que ele realmente não tem preconceito? Claro que tem! Suas decisões são completamente tomadas baseadas em como foi treinado. 
+Primeiro, o que define se alguém é culpado ou inocente não tem absolutamente nada a ver com suas características físicas, ser culpado ou inocente está relacionado ao seu comportamento e não ao fato de sua boca ser menor ou maior. Criar essa relação entre as duas dimensões, características físicas e a pessoa ser culpada ou inocente, já faz com que esse juiz digital seja preconceituoso por criação. Sua definição de inteligência é preconceituosa pois ela interpreta a realidade levando em consideração características que não compreendem o fator que precisa para determinarmos se alguém é culpado ou inocente: o comportamento e as ações de um indivíduo.
+
+
+A DIVERSIDADE E INCLUSÃO DOS DADOS 
+EVITAM OS PRECONCEITOS DIGITAIS
+Uma das formas que eu identifiquei como uma possível solução para o preconceito digital é sermos conscientes de que ele existe e, também, tratar diversidade e inclusão dos dados como requisitos essenciais durante o processo de treinamento da Inteligência Artificial. Pensar de forma intencional em todas as dimensões que nosso cérebro rápido não vai lembrar, e trazer o nosso cérebro devagar para pensar nisso. É preciso sempre fazer a pergunta: “Existe alguma dimensão que não estamos levando em consideração que pode gerar um preconceito digital?”. 
+É importante saber que sempre os algoritmos e computadores vão influenciar e tomar decisões digitais utilizando dados, pois eles se alimentam disso. Nós, seres humanos, usuários de computadores, celulares e aplicativos, alimentamos os computadores com dados o tempo todo. Mas a responsabilidade dos dados é bem maior para as pessoas responsáveis pela fase de treinamento de algoritmos e computadores que tomam decisões. Essa fase, como vimos antes, é aquela em que os computadores aprendem como decidir. As pessoas que alimentam os computadores com dados nessa fase precisam de mais Consciência Digital para escolher o conteúdo, e precisam levar em consideração a maioria das dimensões possíveis, incluindo a diversidade como algo essencial para diminuir as chances de decisões digitais preconceituosas.
+
+
+O checklist para evitar a 
+Inteligência Artificial preconceituosa
+Uma das novidades desta nova edição é que você vai ter acesso ao e-book “Check-list para evitar a Inteligência Artificial preconceituosa” que pode ser acessado pelo QR code abaixo:  
+
+
+  
+
+
+
+________________
+
+
+EXPANDINDO
+E SUGANDO
+NOSSA MENTE
+VOCÊ NÃO É A SUA MENTE
+“O filósofo Descartes acreditava ter alcançado a verdade mais fundamental quando proferiu sua conhecida máxima: ‘Penso, logo existo’. Cometeu, no entanto, um erro básico ao equiparar o pensar ao Ser e a identidade ao pensamento. Se for usada corretamente, a mente é um instrumento magnífico. Entretanto, quando a usamos de forma errada, ela se torna destrutiva. Para ser ainda mais preciso, não é você que usa a sua mente de forma errada. Em geral, você simplesmente não usa a mente. É ela. Só porque podemos resolver palavras cruzadas ou construir uma bomba atômica não significa que estejamos usando a mente. Assim como os cães adoram mastigar ossos, a mente adora transformar dificuldades em problemas. É por isso que ela resolve palavras cruzadas e constrói bombas atômicas. Mas essas coisas não interessam a você. Pergunto então: você consegue se livrar da sua mente quando quer? Já encontrou o botão que a ‘desliga’?” 
+
+
+Extraído do livro O poder do agora, de Eckhart Tolle, que nos últimos vinte anos vem transformando vidas com as obras que já venderam mais de 12 milhões de cópias e foram publicadas em 35 idiomas em todo o mundo.[17] Uma das suas frases mais impactantes é “Você não é a sua mente”. Quando li isso pela primeira vez, comecei uma transformação dentro de mim de quem sou e quem eu reconheço que sou. Não somos a nossa mente. O ser e o pensar são duas entidades distintas. Segundo Eckhart, quanto mais pensamos menos somos, porque o ser é algo que vai além do pensamento.
+Em um retiro espiritual que participei fiz uma pergunta ao Eckhart sobre como ele via a ligação entre a tecnologia e o poder do agora. Depois de silenciar por alguns segundos, algo que sempre faz e que tranquiliza todas as pessoas a sua volta, ele respondeu que “Os smartphones são uma extensão da nossa mente” e que podemos usá-los para nos ajudar a ser mais conscientes ou para sermos menos conscientes.
+Eckhart também trouxe minha atenção para o fato de que a mente humana é viciante, é algo que não conseguimos controlar. Agora, com os celulares e equipamentos digitais sendo uma “extensão da nossa mente”, é preciso tomar cuidado com os riscos decorrentes da falta de controle sobre o nosso uso. Existem formas de usar os equipamentos digitais para expandir nossa consciência, existem aplicativos para isso. O importante é como usamos o celular e com qual objetivo. 
+Ele citou um depoimento positivo de uma pessoa que proibiu para si mesma o uso de qualquer equipamento digital dentro do seu quarto. “Sem celular, sem leitor digital, no meu quarto não entra nada digital.” Talvez esse seja um experimento bom pra se fazer. Cada pessoa terá resultados diferentes, mas aprenderemos muito com isso. Também citou que é preciso estar presente com as pessoas a nossa volta e, como exemplo, contou uma história de um casal que estava jantando e os dois estavam no celular. Ele até brincou dizendo que, se fosse o primeiro encontro, seria o último. Com certeza o casal se conhecia há muito tempo, mas é uma pena que, com o tempo, as pessoas fiquem menos presentes umas com as outras.
+Eckhart finalizou o nosso papo dizendo que é desafiador se manter criativo e consciente nos negócios do mundo digital, mas que é sim possível promover mais presença e consciência construindo um negócio sustentável e lucrativo ao mesmo tempo.
+
+
+QUANDO A TECNOLOGIA
+EXPANDE NOSSA MENTE
+Nós acordamos pensando em muitas coisas: que horas tenho que chegar ao trabalho? Será que estou atrasado? Será que aquela conta vence hoje? Quantos e-mails tenho que ler? E aquela reunião às três da tarde? E a nota baixa que meu filho tirou na escola? À noite vou ao supermercado, não posso esquecer de comprar batata doce. Tenho que responder aquele e-mail da minha gerente. 
+Todos esses pensamentos estão “gastando nossa atenção”, que já é limitada. E se somos alguém que tem diabetes, como a Isabella do Quin, que fica o dia todo “calculando, monitorando, analisando, lembrando, esperando e se preocupando com o impacto que cada refeição, cada atividade e cada emoção vai ter no seu corpo”? Isabella ainda complementou dizendo que, por muitos anos, sempre sonhou em tirar esse peso e delegar tudo pra uma máquina (um computador). 
+Percebeu que ela chamou todos os pensamentos de “peso”? É isso mesmo! Quando pensamos, estamos gastando um recurso limitado e isso é cansativo, é como se estivéssemos carregando um peso e, por isso, ficamos com a mente cansada. Quin é só um exemplo do mundo digital diminuindo esse peso, pois toma decisões por nós. O objetivo da Quin é tomar o maior número de decisões possíveis pra que você não precise se preocupar com elas nem pensar sobre quando e como agir, independentemente de onde esteja e do que esteja fazendo. Ou seja, um aplicativo pra pensar e agir por você, pra diminuir o peso de ficar se preocupando. Para que, dessa maneira, pensando menos, estejamos mais presentes e sejamos mais conscientes de quem realmente somos, do nosso eu mais real.
+Como disse anteriormente, uso dois aplicativos para meditar (Headspace e 1 Giant Mind). Meditação é um dos caminhos para sermos mais conscientes de quem realmente somos, do nosso eu mais profundo, que vai além do pensamento.
+Quin, Headspace, 1 Giant Mind são apenas algumas das fantásticas soluções digitais que nos ajudam a expandir a nossa consciência, que lá no fundo, nos ajuda.
+Aqui estão alguns outros exemplos de como a tecnologia já tem nos auxiliado e pode ajudar ainda mais a diminuir esse “peso” que é o pensamento:
+
+
+Dirigindo carros
+Hoje, motoristas de carros já não precisam ficar pensando, como há alguns anos, se estão tomando o caminho certo, onde virar à direita ou à esquerda, ou como está o trânsito a essa hora naquela região movimentada da cidade. Toda essa informação está sendo processada por tecnologias como Waze e Google Maps, que simplesmente guiam o carro seguindo instruções simples como “a 100 metros, vire à direita”. 
+Hoje também já existem carros que dirigem sozinhos, sem motoristas. São os carros autônomos que, em um futuro próximo, estarão muito mais presentes no nosso dia a dia e simplesmente vamos entrar em um carro e ele vai nos levar para onde quisermos ir.
+
+
+Diagnosticando e tratando doenças
+Sabia que o vírus foi descoberto em 1892? Isso mesmo, há apenas 127 anos sabemos da existência do vírus. Imagine que antes desta data o vírus já existia, mas não sabíamos da existência dele. Ou seja, pessoas tinham doenças virais e nenhum médico conseguia diagnosticar. Hoje já existem computadores que fazem diagnósticos de várias doenças, de um modo melhor e mais preciso do que médicos humanos. O site medicalfuturist.com listou cinco formas que a realidade virtual médica já está revolucionando o tratamento de doenças. Aqui estão duas delas:
+* Ajudar pacientes a relaxar e a reduzir o estresse de estarem em um hospital levando-os para ambientes virtuais como paisagens bonitas na Islândia ou nadando com baleias no oceano.
+* Ajudar crianças que estão em tratamento a se sentirem em casa em eventos especiais, como o dia do seu aniversário. É muito melhor se sentir em casa com um óculos de realidade virtual (VR) do que passar o aniversário em um hospital.
+Em um futuro próximo, computadores irão diagnosticar doenças rapidamente e tratamentos personalizados serão aplicados aos pacientes. Há previsões que dizem que para se “autodiagnosticar, vamos cuspir em nosso smartphone”. Será que é um exagero? Imaginar que será possível que existam sensores integrados com os nossos smartphones e que por meio da nossa saliva possam identificar doenças e nos indicar tratamentos. Está com uma dor na garganta? Cospe no iPhone que ele diz o que você tem, se comunica automaticamente com a farmácia mais próxima, que já manda um drone entregar o seu remédio na sua porta em minutos. 
+
+
+Comprando comida
+Antigamente, quando íamos ao mercado, ficávamos pensando no que precisávamos comprar. A não ser que tivéssemos escrito uma lista de compras em um papel, teríamos que lembrar de tudo. Hoje já existem aplicativos que nos ajudam a manter listas e até sugerem compras baseadas no que compramos nas vezes passadas. Em um futuro próximo, nossas geladeiras inteligentes vão se comunicar com os itens dentro dela e vão fazer pedidos automaticamente para o seu mercado preferido, pois todas as “coisas” estarão conectadas na revolucionária “internet das coisas” (IoT, internet of things). 
+Em 2019 já existem mais de 16 bilhões de coisas conectadas à internet. Mais de cinco vezes o número de pessoas conectadas, que é 3,2 bilhões. A Amazon patenteou em 2014 um método de envio de produtos que envia o item antes mesmo de você realmente efetuar a compra. É a chamada entrega antecipada (anticipatory shipping). A Amazon prevê que você vai comprar algo e já envia para você. Já pensou em receber um item que queria muito comprar, mas nem comprou ainda? É mais ou menos isso que a empresa quer fazer. O artigo “Amazon registra patente de entrega antecipada” publicado na Oficina da Net explica com mais detalhes. Será que em um futuro próximo não vamos precisar nos preocupar com o que comprar? Os itens vão aparecer quando forem necessários?
+Tudo isso parece muito revolucionário, não é mesmo? O Fórum Econômico Mundial, que reúne os principais líderes empresariais e políticos, assim como intelectuais e jornalistas selecionados para discutir as questões mais urgentes enfrentadas mundialmente, definiu essa transformação como “uma revolução tecnológica que transformará fundamentalmente a forma como vivemos, trabalhamos e nos relacionamos. Em sua escala, alcance e complexidade, a transformação será diferente de qualquer coisa que o ser humano tenha experimentado antes”, diz Klaus Schwab, autor do livro A Quarta Revolução Industrial.
+
+
+INVASÃO DE ATENÇÃO E 
+UMA DIETA DE CONTEÚDO
+Esses dias eu estava passando pelos stories do Instagram. Por falar nisso, você já percebeu que tudo agora tem stories? O primeiro aplicativo que eu vi ter isso foi o Snapchat. Você fazia um vídeo ou postava uma foto e 24 horas depois sumia. O Facebook tentou comprar o Snapchat, mas eles não venderam. Então o Facebook resolveu lançar o mesmo conceito em todos os seus produtos. Agora tem stories em todas as redes sociais: Instagram, Facebook e até no WhatsApp, onde se chama “status”! Isso mesmo, o status é aquele lugar onde quase ninguém posta nada e, quando você vai lá ver, só aparece algumas pessoas que você nem lembrava que tinha no seu WhatsApp. 
+Mas voltando ao dia em que eu estava passando pelos meus stories, estava ali Marcio Paulo, um amigo que pediu a namorada em casamento. Logo depois estava meu irmão Paulo Neto, que é comissário, em mais um de seus voos, dessa vez ele viajou com o namorado. Quando passo o story, quem aparece? Uma atriz bem famosa! Eu pensei “Eu não sigo a Ivete Sangalo, será que alguém que eu sigo a conheceu e postou isso?”. Levou alguns segundos para eu perceber que era uma propaganda disfarçada dentro dos meus stories. Eu me senti violado, enganado, invadido. Senti que estavam roubando algo de mim. No momento eu não sabia direito o que era, mas depois pensei melhor, usei o sistema 2 do meu cérebro que precisa de um pouco mais de tempo para processar coisas, e cheguei a conclusão de que estavam roubando uma das coisas mais valiosas que temos hoje em dia: nossa atenção. Eu chamo isso de “invasão de atenção”, um termo parecido com invasão de privacidade mas, em vez da coisa violada ser a nossa privacidade, na invasão de atenção é a nossa atenção que é roubada literalmente, e ironicamente, quando nem estamos atentos.
+Conscientes digitais sabem quando estão sofrendo invasão de atenção, não deixe isso acontecer.
+Falamos no início deste livro sobre o quanto somos bombardeados constantemente com informação. Nesta nova era digital, é importante decidirmos o que vamos consumir. Isso mesmo, é como se precisássemos fazer uma dieta de informação para decidir o que será consumido.
+Imagine que você percebeu que vivemos em um mundo com abundância de comidas que não fazem bem. É pão, batata frita, coxinha, pastel, e tudo isso disponível em cada esquina. Então decide ir a um nutricionista para saber o que deve ou não consumir. Na segunda-feira de manhã começa a fazer a dieta e na lista tem:
+* Café da manhã: tapioca com ovo e abacate (por sinal eu adoro esse café da manhã)
+Então você acorda bem empolgado pra comer aquela tapioca e, quando dá a segunda mordida nela, aparece uma batata frita com ketchup dentro da tapioca! Você decidiu comer algo saudável e alguém, que não foi você, decidiu por você colocar outra coisa ali no meio. Como você se sentiria?
+Pois é, plataformas de conteúdo como o YouTube, por exemplo, agora possuem vídeos promocionais no meio do vídeo que você está assistindo. Quando estávamos acostumados com o vídeo do início, que em cinco segundos podíamos pular, eu já ficava com o dedo coçando pra apertar o “pular este anúncio em 3… 2… 1…”. Agora, no meio do vídeo, aparece um conteúdo promocional. Será que foi você que decidiu assistir àquele conteúdo? Isso é invasão de atenção. Aqui vai um passo a passo de como funciona:
+* Você “dá” a sua atenção ao vídeo principal;
+* Começa a assistir ao vídeo que queria;
+* O YouTube, nesse momento, tem a sua atenção, que é uma das coisas mais valiosas que temos hoje;
+* No meio do vídeo que queria assistir, passa um vídeo promocional.
+
+
+É em um momento de vulnerabilidade, quando você deu a sua atenção completa ao vídeo que queria assistir, que o YouTube vai e pega ela, a sua atenção, passando um outro conteúdo promocional pelo qual ele está cobrando. Sim, pois o site vende a sua atenção e faz com que você coma aquela batata frita com ketchup quando você estava comendo uma tapioca. O que fazemos? Assistimos ao vídeo promocional, nem sabendo direito porque ele apareceu, e continuamos com o conteúdo principal.
+Quando você consome conteúdo de graça, a sua atenção é o produto que alguém está vendendo. Hoje existe a chamada Economia da atenção, muito bem explicada por Herbert Simon:
+
+
+A economia da atenção:
+“... em um mundo rico de informações, a riqueza de informações significa a escassez de algo mais: a escassez do que quer que seja que a informação consome. O que ela consome é bem óbvio: a atenção de seus recipientes. Assim, uma riqueza de informação cria uma pobreza de atenção e a necessidade de alocar a atenção eficientemente entre uma superabundância de fontes de informação que pode consumi-la.”
+
+
+É preciso ter muito cuidado com quem está ganhando algo com a nossa atenção e para quem estamos dando a nossa atenção, pois ela é muito valiosa. Cada vez que você assiste a um vídeo no YouTube, está dando dinheiro a eles. Sim, está! Sua atenção vale dinheiro e, o mais importante, ela é limitada. Aprenda a usá-la bem.
+Estamos doando os nossos bens mais valiosos – nossa atenção e nossos dados – sem entender as consequências disso. Esses bens são tão valiosos que o Facebook lucrou US$ 15,9 bilhões de dólares em 2017 – com faturamento de US$ 40,6 bilhões.
+Existem movimentos globais para que sejamos mais conscientes disso. Um deles é o que se chamava Time Well Spent, ou tempo bem gasto, iniciado por Tristan Harris, que é como o movimento de alimentos orgânicos, mas para a internet. O movimento foi renomeado para HumaneTech[18] e em 2019 possuía três passos muito bem definidos:
+1.        Entender o problema;
+2.        Definir o caminho que devemos seguir;
+3.        Apresentar dicas de como ter mais controle.
+
+
+Um dos trabalhos de maior valor em um futuro próximo será o de nutricionista de conteúdo digital, trabalho que pode também ser chamado de curadoria de conteúdo. Esse trabalho também poderá ser feito automaticamente por computadores que aprendam com os nossos hábitos de consumo. 
+Já pensou não precisar ler os e-mails que não quer e não ter que assistir às propagandas que não lhe interessa, ou seja, só consumir aquilo que realmente quer e precisa? Não custa sonhar… ah, na verdade custa sim, porque quando sonhamos estamos investindo nossa atenção neste sonho e ela vale muito! Mesmo assim, é um investimento muito valioso. Sonhar vale a pena!
+É importante tomar uma decisão consciente de quais conteúdos e informações vamos consumir. Isso é mais importante até mesmo do que decidir o que vamos comer. Escolha o que você lê, assiste, vê e escuta na internet. #ficaadica
+
+
+SMARTPHONES DESLIGADOS 
+SUGAM NOSSA INTELIGÊNCIA
+Um estudo de 2017 da Npj Science of Learning fala sobre o custo cognitivo em ter a “mera presença” de um smartphone por perto, mesmo que desligado. A hipótese que os pesquisadores queriam comprovar era: “Será que smartphones podem influenciar nossa performance cognitiva, mesmo quando estão desligados, mas estão próximos a nós?”. Falando em uma linguagem simples, essa performance cognitiva significa duas coisas:
+* Capacidade de processar e manter informação (working memory capacity): consumir alguma informação, como ler, por exemplo, processar, entender e lembrar depois. Uma habilidade muito importante para entender o que lemos e conseguir explicar depois.
+* Inteligência fluida (fluid intelligence): a capacidade de raciocinar e resolver problemas novos.
+
+
+Falando em um português bem claro: será que ter um smartphone desligado perto da gente nos deixa menos inteligentes? A resposta é SIM! Os participantes do experimento com seus celulares por perto e desligados tiveram uma performance pior do que os participantes que deixaram seus celulares em outra sala. Isso quer dizer que, se quisermos resolver um problema difícil, é preciso focar e usar nosso processamento cognitivo de uma forma mais dedicada àquele desafio. Os smartphones sugam nossa atenção, mesmo desligados, porque ficamos pensando: “será que alguém me mandou um WhatsApp? Será que alguém curtiu minha foto no Instagram?”, e esses “serás”, mesmo que inconscientes, sugam nossa inteligência.
+Na hora que precisar resolver um problema difícil, que requer muito da sua atenção e inteligência, deixe o seu smartphone em outra sala e perceba como será mais fácil resolver o problema. #ficaadica
+Shlomo Benartzi, em seu livro The Smarter Screen, cita um estudo que comprovou que ficar se preocupando com um e-mail não lido pode diminuir o nosso QI em até dez pontos. Isso é mais do que o dobro do que outros dois eventos que diminuem o nosso QI em quatro pontos: ficar uma noite sem dormir e fumar maconha.
+Neste momento, por exemplo, eu estou escrevendo este livro na sala e o meu smartphone está lá no quarto em modo avião para que eu possa focar e prestar total atenção ao que estou fazendo agora.
+Você consegue ficar um dia longe do seu celular? A minha namorada um dia desses esqueceu o dela na casa da mãe e ficou sem ele o dia todo. Depois conversou comigo e me disse que não estava preocupada pensando se alguém tinha mandado mensagem e que tinha aproveitado mais o nosso tempo juntos porque ela estava sem o celular. Na verdade, às vezes, quando vamos ao teatro ou ao cinema, ela não leva o aparelho porque diz que quer estar mais presente no nosso momento juntos. Eu aprendi com um artigo que li e com ela que nos desconectar dos nossos smartphones de vez em quando nos ajuda a nos conectar mais com as pessoas que estão à nossa volta. 
+E essa é outra decisão digital: colocar o celular no modo avião ou de não levar o celular para o teatro são decisões que tomamos a respeito dos nossos equipamentos digitais e que vão mudar a nossa vida perto e longe deles.
+Se você quer resolver um problema difícil, focar em uma tarefa que precisa de mais atenção ou se conectar com alguém que está ao seu lado, deixe o seu celular em modo avião, desligado ou longe de você. #ficaadica
+
+
+  
+
+E PODE UMA COISA DESSA?
+ÉTICA E MORAL 4.0
+Imagine um carro autônomo, desses que dirigem sozinhos, sem motoristas, vindo em alta velocidade. Então o carro vê três pedestres atravessando a rua. Isso mesmo, os carros têm visão computacional, que na verdade é melhor do que a visão humana para detectar obstáculos e enxergar placas. Então, esse carro está em alta velocidade com três passageiros e vê três pessoas atravessando a rua em uma faixa de pedestres. O carro tem que tomar uma decisão entre seguir em frente ou desviar. O problema é que ele já identificou uma parede e, se ele desviar, vai bater nela e, devido a alta velocidade, os três passageiros dentro do carro vão morrer. Ou seja, o carro tem duas opções:
+1.        Seguir em frente e matar três pedestres
+2.        Desviar e matar três passageiros
+Qual decisão o carro deve tomar? Essa é uma das decisões digitais que os computadores vão ter que tomar por nós, e quem deve decidir o que é certo ou errado? O MIT criou a Máquina Moral, uma plataforma para coletar a perspectiva humana em relação às decisões morais feitas pela inteligência das máquinas como, por exemplo, em carros autônomos. Os exemplos vão ficando bem mais complexos, como nas imagens abaixo nas quais o carro precisa decidir entre matar:
+* Um médico, uma mulher grávida, dois bebês e um cão ou
+* Uma mulher grávida, um cão, uma pessoa desabrigada, uma menina e um menino
+
+
+  
+
+
+
+
+
+Vejam só todas as “caixas” onde as pessoas são categorizadas. Gênero, profissão, idade... todas essas características devem ou não ser levadas em consideração em um momento de tomar uma decisão dessas? Se essas não são as características a serem consideradas, então quais são? O que pode e o que não pode ainda é uma pergunta não respondida.
+Será que o seu carro sem motorista deve dar mais valor à sua vida do que à de um pedestre? E será que a atividade do seu wearable pode ser usada contra você na justiça? Devemos permitir que os drones virem os novos paparazzi? É possível patentear um gene humano?
+O artigo “Os Dilemas Morais da Quarta Revolução Industrial”, publicado pelo Fórum Econômico Mundial[19], trouxe à tona muitas perguntas relevantes à moral e à ética da era digital. 
+Os cientistas já estão em conflito com esses dilemas. Ao entrarmos na nova era da máquina, precisamos que um novo conjunto de regras morais codificadas torne-se regra global.
+E isso está começando a acontecer:
+* Em 2016, a Universidade Carnegie Mellon, nos Estados Unidos, anunciou um novo centro de estudos sobre a Ética da Inteligência Artificial.
+* Durante o mandato do presidente Obama, a Casa Branca publicou um artigo sobre o mesmo assunto.
+* Gigantes da tecnologia, como o Facebook e o Google, anunciaram uma parceria para elaborar um quadro ético para a IA.
+
+
+“Há tantos riscos quanto oportunidades: Stephen Hawking, Elon Musk e outros especialistas assinaram uma carta aberta pedindo que fossem reunidos esforços para garantir que a IA seja benéfica para a sociedade.
+‘Os benefícios potenciais são enormes, pois tudo o que a civilização tem para oferecer é produto da inteligência humana; não podemos prever o que podemos alcançar quando essa inteligência é ampliada pelas ferramentas da IA, mas a erradicação das doenças e da pobreza não é insondável. Por seu grande potencial, é importante pesquisar como colher seus benefícios enquanto evitamos eventuais problemas’.”[20]
+São grandes nomes e grandes ideais. No entanto, muitos esforços não têm cooperação global. Além disso, as implicações da Quarta Revolução Industrial vão além da Internet e da IA.
+O professor Klaus Schwab, fundador do Fórum Econômico Mundial, acredita que esta fase será construída em torno de “sistemas ciber-físicos”, nos quais os limites entre o físico, o digital e o biológico são atenuados. Ao abraçarmos a era da máquina, seremos confrontados com novos desafios éticos, exigindo novas leis. Em alguns casos, todo o código moral pode precisar de reelaboração. É a natureza dos avanços tecnológicos. Acredito que a humanidade estará, em breve, prestes a repensar a moral: uma ética 4.0.
+As implicações éticas vão do imediato (como os algoritmos por trás do Facebook e do Google que influenciam tudo, das nossas emoções até as eleições) ao futuro (o que acontecerá se os veículos autodirigidos fizerem a profissão de motorista de caminhão desaparecer?). 
+A seguir, apresento uma amostra das decisões éticas que enfrentaremos em quatro áreas:
+1.        Ciências da vida;
+2.        Inteligência Artificial, aprendizado de máquinas e dados;
+3.        Redes sociais e eletrônicos;
+4.        Robôs e máquinas.
+
+
+1.        Ciências da vida: deve ser considerada legal a edição de genes para manipular a raça humana e criar “bebês de grife”? O pesquisador sobre câncer Siddhartha Mukherjee, em seu livro O gene, muito aclamado pela crítica, destacou as profundas questões éticas que serão colocadas em pauta pelos avanços na ciência do genoma. A lista de questões éticas é longa: e se um exame de pré--natal previsse que seu filho teria um QI de 80 pontos, bem abaixo da média, a não ser que fosse feita uma pequena alteração? E se essas tecnologias fossem limitadas apenas a pessoas ricas?
+2.        Inteligência Artificial, aprendizado de máquinas e dados: com o tempo, a Inteligência Artificial nos ajudará a tomar todos os tipos de decisões. Mas como garantimos que esses algoritmos são bem projetados? Como dissolver os preconceitos desses sistemas que serão usados para determinar a promoção no trabalho, o ingresso à faculdade e até mesmo a escolha do parceiro? Será que a polícia deveria usar um software de reconhecimento facial? O policiamento preditivo baseado em algoritmos deveria ser considerado legal? Que impacto isso terá em nossa privacidade? Será que a tecnologia de ponta com a aplicação da lei local vai inaugurar a era do estado de vigilância?
+3.        Redes sociais e eletrônicos: e se os kindles (leitores eletrônicos) viessem com um software de reconhecimento facial e sensores biométricos e dissessem como cada frase influencia nossa frequência cardíaca e pressão arterial?
+4.        Robôs e máquinas: Como definir o que os carros sem motorista podem decidir? Como definir o que os robôs podem decidir? Precisaremos de uma Declaração de Direitos dos Robôs? E quanto ao direito de humanos se casarem com robôs e robôs possuírem propriedades? Um ciborgue altamente avançado pode ser candidato a um cargo político?
+
+
+Antigamente os mercados livres decidiam o destino das inovações e, com o tempo, os governos entravam e intervinham (a Uber é proibida no Japão, por exemplo, mas funciona na Índia). No entanto, nesse caso, essa abordagem poderia ser desastrosa.
+Não queremos que o governo impeça a inovação: estamos pedindo um diálogo global coerente sobre a ética no século XXI. O diálogo precisa ir além das revistas acadêmicas e artigos de opinião e deve incluir comitês governamentais e órgãos internacionais como a ONU.
+Até agora tivemos uma abordagem de silos – da proibição mundial da clonagem humana a restrições parciais sobre alimentos transgênicos. Diferentes regiões também tomaram posicionamentos diferentes e não conseguiram orquestrar uma resposta unificada: a abordagem da União Europeia para gerenciar o impacto social das novas tecnologias é marcadamente diferente da dos Estados Unidos. A China, por outro lado, sempre teve uma visão de longo alcance. A tecnologia é como a água – encontrará espaços abertos. Em um mundo interconectado, as decisões locais só são eficazes quando possibilitadas pelo consenso internacional.
+É preciso que um fórum internacional estruturado elabore uma lista de tecnologias que precisam de governança, avalie cada uma dessas tecnologias e lance um plano para seu código de conduta. Por exemplo: um órgão governamental internacional poderia estabelecer regras específicas como tornar obrigatória a liberação do esquema lógico por trás de certos algoritmos de IA.
+O mundo da ciência possui alguns exemplos bem-sucedidos de cooperação internacional, como o Protocolo de Montreal de 1987 (sobre a questão da destruição da camada de ozônio), e a Conferência de Asilomar de 1975 (para regulamentar tecnologias de DNA).
+Concordo com as conclusões do Fórum Econômico Mundial de que a humanidade enfrentará questões que ainda não precisou responder. E, por isso, precisamos começar a dialogar agora.
+Se não nos prepararmos com antecedência, enfrentaremos vários riscos. Corremos o risco de perder muito poder para as máquinas, de alterar o curso da humanidade sem entender completamente as consequências disso, de criar muita desigualdade entre os “ricos da tecnologia” e uma enorme subclasse. Qualquer um que tenha visto um único episódio da premiada série Black Mirror deve se preocupar com o futuro distópico que pode estar à frente – isso se não abordarmos as complexas questões filosóficas e legais agora.
+Tradicionalmente, o progresso tecnológico ultrapassa o processo político: já perdemos por não elaborar uma cartilha moral para a internet e continuamos tentando alcançá-la até hoje. Não podemos nos dar ao luxo de ficar cegos para as próximas fronteiras, seja na biotecnologia ou na IA. Nosso futuro está cada vez mais nas mãos de engenheiros e empresários que não serão necessariamente responsabilizados.
+A sociedade consegue se adaptar à mudança – da máquina a vapor ao iPhone e ao aumento significativo da expectativa de vida. Como afirma Bill Gates, “a tecnologia é amoral”. Cabe a nós decidir seus usos e limites.
+
+
+  
+
+________________
+
+
+E AGORA?
+Você deve estar se perguntando: “E agora? O que eu faço com tudo o que eu aprendi neste livro?”, “Como aplicar?”, “Como melhorar?”, “Posso ser menos irracional digital e mais consciente digital?”.
+O grande objetivo deste livro é transformar você, que acabou de ler, em uma pessoa mais consciente digital. Uma vez que conhecemos as nossas irracionalidades, os nossos vieses, os nosso erros sistemáticos, é mais fácil de evitar que eles ocorram novamente.
+
+
+PRÓXIMOS PASSOS PARA EXPANDIR 
+A SUA CONSCIÊNCIA DIGITAL 
+Sugiro alguns possíveis próximos passos muito simples:
+1.        ACEITE QUE SOMOS IRRACIONAIS DIGITAIS;
+2.        OBSERVE COMO VOCÊ SE COMPORTA NO MUNDO DIGITAL;
+3.        EXPERIMENTE FAZER PEQUENAS MUDANÇAS;
+4.        CONVERSE COM OUTRAS PESSOAS E APRENDAM JUNTAS;
+5.        VOLTE PARA O PASSO 2 E FAÇA TUDO DE NOVO…
+
+
+
+
+1. Aceite que somos irracionais digitais
+A Economia Comportamental abriu nossos olhos e provou cientificamente que somos irracionais. Vivemos cada vez mais imersos no mundo digital. Sabemos que temos limitações de atenção e que tomamos decisões pensando no curto prazo mais do que no longo prazo. O “eu” do agora é mais importante e mais poderoso do que o “eu” do futuro. Não lemos tudo o que recebemos, porque é humanamente impossível e não prestamos atenção em tudo que clicamos ou curtimos. Apesar disso tudo precisamos ter consciência das nossas ações on-line. Somos irracionais digitais! Aceitar isso é o primeiro passo.
+
+
+2. Observe como você se comporta 
+        no mundo digital
+Para entender como você é hoje, responda as perguntas:
+* Quais hábitos digitais eu tenho?
+        ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+* Quais equipamentos digitais eu uso diariamente?
+        ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+* Quais são minhas decisões digitais? – Decisões que eu tomo no mundo digital ou que o mundo digital toma por mim.
+        ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+* Quanto tempo e quanto da minha atenção eu invisto em equipamentos digitais?
+        ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Para me observar melhor, uso um aplicativo muito bom que se chama Quality Time. Ele me dá um resumo do meu dia no meu celular. 
+
+
+  
+
+
+
+
+
+A questão não é só saber o tempo que você usa o celular, mas o que você faz durante esse tempo.
+Algumas coisas que aprendi me observando neste aplicativo;
+* WhatsApp é o aplicativo que eu mais uso no celular;
+* O número de vezes que eu desbloqueio a tela do meu celular tem diminuído com o tempo;
+* Eu fico uma média de cinco horas por dia no celular.
+Tudo isso são fatos e dados inquestionáveis. Eu só posso observar e tentar aprender algo sobre como eu me comporto hoje.
+Ninguém chega no fim da vida querendo ter passado mais tempo no celular. #ficaadica
+
+
+3. Experimente fazer pequenas mudanças
+Depois de observar como você se comporta, pense no que deseja mudar e quais objetivos quer alcançar. Faça pequenos experimentos, por exemplo:
+        Dormir com o celular longe de você;
+        Parar e pensar por dois minutos, pelo menos cinco vezes por dia, antes de clicar em um botão on-line;
+        Sair de casa sem o celular quando possível.
+
+
+4. Converse com outras pessoas e aprendam juntas
+Aqui falamos sobre assuntos da Economia Comportamental, que se aplicam aos 7 bilhões de pessoas no mundo, e assuntos da nossa irracionalidade digital, que se aplicam aos cidadãos digitais, pelo menos 3,2 bilhões de pessoas no mundo. Este número continua crescendo. É muito assunto e muita gente para aprender junto, não concorda?
+
+
+5. Volte para o passo 2 e faça tudo de novo…
+Devemos nos manter sempre abertos a experimentar novos hábitos e também sempre atentos ao nosso comportamento. Lembre-se de que nenhuma mudança ocorre do dia para a noite, então repita esses passos sempre que for necessário!
+
+
+ISSO É SÓ O COMEÇO
+Este é um processo cíclico, contínuo e não necessariamente linear. Ou seja, você pode começar observando, depois aceitar, fazer experimentos e conversar com outras pessoas. É bem provável que isso dure o resto da sua vida. Todos os dias eu aprendo algo novo, faço experimentos novos comigo mesmo e com outras pessoas, observo mais como eu me comporto e continuo aprendendo junto de todas as pessoas com quem eu me relaciono em todas as dimensões da minha vida. 
+A Quarta Revolução Industrial já começou: robôs, Inteligência Artificial, aprendizado de máquina, drones, geladeiras que pedem comida sozinhas, carros que não precisam de motoristas, computadores fazem diagnósticos médicos. Tudo isso já existe e vai aumentar em quantidade e capacidade de impacto de forma extremamente rápida.
+Depois de ler este livro, é bem provável que você tenha aumentado o seu Quociente de Inteligência Digital (QD), e tenha subido de nível na Pirâmide da Consciência Digital. Pelo menos no nível 2 eu acredito que você esteja, e a caminho do nível 3! Você aprendeu mais e agora tem habilidades críticas para o seu sucesso, felicidade, independência e segurança na era digital.
+O objetivo desta jornada contínua é sermos mais conscientes para tomar decisões com um impacto mais positivo no mundo, diminuindo a manipulação e aumentando os empurrõezinhos que ajudam. Já que irracionais sempre seremos, vamos ser irracionais digitais mais conscientes para construir e viver em um mundo melhor! 
+
+
+
+
+  
+
+
+
+________________
+
+
+
+
+o que estão falando sobre 
+o livro Consciência digital?
+
+
+Receber elogios, críticas ou sugestões sobre um trabalho ajuda o autor a melhorar o conteúdo. Agradeço muito a todas as pessoas abaixo que leram este livro e me ajudaram a deixá-lo cada vez mais completo para que você, leitor, aproveite a leitura como tem que ser!
+Também quero ouvir o que você achou do livro! Então me escreva em: www.fabiopereira.me/consciencia-digital-livro/cd2qr/review/ e vamos, juntos, transformar o mundo digital!
+
+
+  
+
+
+
+“A leitura me transportou para o futuro e depois me devolveu à realidade contemporânea ciente de que a tecnologia deve se tornar parte de nossa vida, e não a sua totalidade. A pesquisa de Fabio Pereira abordou, de forma prática e singular, o consumo da inovação no mundo, sem deixar de destacar a evolução brasileira. Tudo isso com um projeto gráfico que incentiva a absorção do conhecimento e deixa a leitura mais prazerosa e intuitiva. É um verdadeiro manual para quem não quer ser refém da tecnologia.” Patrícia Basilio – Jornalista de Economia e Negócios
+
+
+“Uma leitura leve, prazerosa e intrigante sobre o que move nossas decisões e como podemos, com pequenos detalhes, mudar nossa vida e a de quem nos rodeia para melhor! Com uma visão prática, realista e aplicada, Fabio nos mostra neste livro, com fatos, como nos comportamos em nossas decisões, das mais simples às mais complexas. Explorando a ideia de nudges, um dos hot topics do momento ao redor do mundo, ele discute como pequenos empurrõezinhos no nosso dia a dia podem transformar comportamentos de forma decisiva. Um livro fundamental para a nossa era que aborda um dos grandes desafios da humanidade: como mudar comportamentos e hábitos para uma vida e uma sociedade melhores!” Flávia Ávila – CEO da InBehavior Lab, fundadora e editora do EconomiaComportamental.org e coordenadora do MBA na ESPM
+
+
+“Um livro necessário quando o digital não somente toma conta do mundo, mas também de nossas mentes.” Arthur Paredes – Publicitário e autor do livro Profundamente
+
+
+“Fabio Pereira identificou e mapeou no mundo on-line, de forma perspicaz, muitos vieses e armadilhas cognitivas existentes. Seu livro é um guia para a estrada de tijolos amarelos pela qual nos transformamos em conscientes digitais e evitamos ser fisgados como tolos quando estamos navegando on-line.” Anderson Mattozinhos – Economista e idealizador do Geekonomics, MBA de Economia Comportamental
+
+
+“Em um mundo onde hábitos e comportamentos são altamente digitalizados, Fabio Pereira cria pontes entre o físico e o virtual, nos ajudando a entender os porquês de sermos mais conscientes em nossa tomada de decisões on-line e off-line.” Maria Augusta Ribeiro – Especialista em Netnografia e Comportamento Digital
+
+
+“Em 2017 fui impactada por uma palestra do Fabio sobre Consciência Digital. A partir de então, provocada por suas palavras, compreendi finalmente o tema. Em seu primoroso livro, ele nos conduz de forma sutil a nos tornarmos, de fato, mais conscientes digitais.” Dani Guedes – Startup advisor e conselheira criativa
+
+
+“Por meio desta obra, Fabio nos apresenta a realidade complexa da nossa relação com a tecnologia – que está cada vez mais integrada no nosso dia a dia e na nossa vida – e também o resultado de anos de sua pesquisa multidisciplinar. Durante a leitura do livro, ele nos guia por temas complexos do comportamento humano, relacionando a (ir)racionalidade humana nas tomadas de decisões com as tecnologias como Inteligência Artificial e redes sociais. De uma forma bastante leve, didática e ao mesmo tempo impactante, o autor nos coloca a pensar sobre Consciência Digital e como podemos melhorar nossa experiência no uso das tecnologias.” Wellington Lopes – Red Hat Academy
+
+
+“É impossível ler este guia de comportamento digital e continuar agindo da mesma forma. Fabio transmite de forma muito leve, mas com bases científicas, exemplos relevantes de como a inconsciência no mundo digital pode ser perigosa. Com seu olhar sensível, inclusivo e humano, ele nos mostra alternativas positivas para nos empoderarmos de nossas decisões digitais em busca de garantir liberdade de escolha e autonomia. Todas as pessoas deveriam ler este livro para despertarem uma nova consciência e para serem menos influenciados digitalmente.” Georgia Lima – Coordenadora TEDx
+
+
+“Mesclando conceitos e informações simples, porém fazendo ponderações e avaliações complexas, Fabio consegue dar uma visão ampla e aprofundada, na medida certa, sobre as relações comportamentais do mundo dentro do ecossistema digital e global. A abordagem direta e objetiva nos faz refletir sobre o imponderável que nos cerca a respeito da tecnologia e também sobre seus impactos nas relações humanas digitais.” Roberto Hengist – Head de Inovação Digital do Banco Votorantim
+
+
+“A vida na era digital é um caminho sem volta! Sendo assim, a melhor opção é viver esse mundo de forma consciente, e o livro Consciência Digital é perfeito para isso. De leitura muito leve, dinâmica e com várias pitadas de humor, Fabio traz questionamentos pertinentes sobre os nossos comportamentos on-line no dia a dia e, principalmente, sobre as decisões digitais que vão além das nossas escolhas e vontades. É um livro bastante pertinente para os dias atuais!” Renata Albertim – Cofundadora do Mete a Colher
+
+
+“Na minha visão, este é um manual de sobrevivência moderno. De forma simples e direta, Fabio consegue nos mostrar as principais ferramentas que estão sendo utilizadas na internet para nos ajudar ou prejudicar. Dessa forma, ele nos auxilia a ficarmos mais conscientes e aprendermos a tomar decisões melhores nas redes e no dia a dia.” Caio Ledesma – Treinador comportamental
+
+
+“Como um guia prático, simples e objetivo, Consciência Digital tem uma leitura leve que nos encanta com tantas descobertas. É simplesmente genial a abordagem de um tema que nos parece tão distante, mas que é muito presente em cada decisão do nosso cotidiano.” Felipe Lucena – Professor
+
+
+“De uma forma leve e muito interativa, o livro nos faz refletir sobre todos os atos diante do mundo digital, fazendo com que nossa consciência seja ampliada por meio do enorme conhecimento que Fabio acumulou durante vários anos, e das dicas presentes neste livro incrível.” Hélica Pereira – CEO CrossPwr
+
+
+“Com um vocabulário simples e com exemplos do dia a dia, Fabio vai conquistar o leitor com uma leitura fluida e inteligente. O livro é um presente, com dicas e insights de como navegar conscientemente no mundo digital no qual estamos imersos. Eu não sabia o quanto era inconsciente no mundo digital até ler este livro.” Andrea Pinto – Gerente de projetos
+
+
+“Sobre vieses algorítmicos, gostei bastante do texto que explica sobre a Consciência Digital na hora de construir softwares que impactam na vida das pessoas e que podem gerar preconceitos digitais. O mundo precisa discutir mais sobre como a tecnologia está evoluindo e para quem.” Roselma Mendes – Feminista negra e interseccional desenvolvedora
+
+
+“O livro Consciência Digital trouxe uma perspectiva nova para a minha mente, que é a de pensar na diversidade e inclusão dos dados, e não apenas dos times. O próximo desafio é dialogar com as pessoas que programam e organizam os dados, de forma a despertá-las para a diversidade e inclusão. Agindo assim, deixamos de perpetuar análises enviesadas e preconceituosas.” Lisiane Lemos – Technology specialist e Forbes Under 30
+
+
+“O conteúdo do livro é fantástico, muito interessante e nos mostra o lado desconhecido de um mundo ‘aparentemente’ tão conhecido: o digital. Eu estou realmente impressionada como outras pessoas tomam decisões por nós todos os dias. O livro, de fato, atinge o objetivo a que se propõe: transformar o leitor! Após a leitura, com certeza, todos os leitores ficarão muito mais atentos a todas as suas interações digitais. Impossível ler este livro e continuar com o mesmo comportamento e pensamento. Eu já comecei a minha mudança e os meus experimentos.” Luciana Silva – Coach ágil
+
+
+“Com uma leitura muito agradável, até parece que Fabio conversa com o leitor… Este livro me fez refletir sobre como o ‘mundo’ deixou de ser o ‘planeta’. Consciência Digital supõe uma viagem sem fronteiras, dispondo do conhecimento como ferramenta.” Fabíola Vieira – Analista técnica do Sebrae
+
+
+“Um empurrãozinho, às vezes, é o que precisamos para tomar uma boa decisão e salvar vidas. Um empurrão – pequeno, oportuno e fácil – para vivermos em uma sociedade melhor. Este é o caso na Áustria, onde as pessoas são doadores de órgãos, a menos que selecionem a opção de opt-out. O trabalho de Fabio examina os comportamentos psicológicos que influenciam as tomadas de decisões no mundo digital, este que inevitavelmente está imerso no mundo físico. Com uma linguagem clara e exemplos relevantes, ele explica a ciência comportamental sob a ótica do mundo digital: a Consciência Digital.” Paulo Caroli – Autor do livro Lean Inception e consultor
+
+
+“Utilizando uma linguagem direta com extrema clareza, Fabio Pereira captura o zeitgeist desta era virtual ao discorrer lucidamente sobre escolhas, decisões e empurrões digitais, levando o leitor através de uma lúdica jornada de descobertas cibernéticas. O leitor é conduzido a um prazeroso e oportuno estado de autoconsciência, que o tornará mais seguro de si diante do infindável e vasto oceano da internet.” Paulo Neto – Jornalista e crítico de cinema e teatro
+
+
+“Com uma leitura dinâmica, este livro consegue aproximar leitor e autor em uma conversa leve, divertida e interessante. Entender que as nossas decisões digitais vão além do que conscientemente percebemos, pode ser revelador a princípio, mas é, acima de tudo, libertador! Isso nos torna usuários de tecnologias digitais mais críticos, enquanto também nos mostra a maravilhosa evolução das relações humanas com a tecnologia. Achei a leitura viciante. Cada tópico era tão interessante que me fazia querer ler até o fim e entender qual era a conclusão que eu poderia tirar dali.” Renata Lourena – Consultora e desenvolvedora de software
+
+
+“Consciência Digital fornece uma série de questionamentos sobre como estamos encarando a era digital e as decisões que muitas vezes não são tomadas por nós de forma consciente. Fabio escreveu um livro muito relevante que estimula a reflexão, abordando exemplos reais do dia a dia e, principalmente, dicas de como podemos prestar mais atenção e saber se estamos sendo influenciados ou não no meio digital.” Scheila Giongo – Gerente de projetos
+
+
+“O livro apresenta uma leitura deliciosa e útil em torno do poder da era digital sobre o comportamento humano. É uma excelente fonte de reflexão e mudança. Com uma linguagem simples, clara e embasada, Fabio nos leva a refletir sobre quanto o mundo digital interfere em nossa consciência e, consequentemente, em nossas decisões.” Teresa M. M. Maciel – CTO da UFPE
+
+
+
+
+REFERÊNCIAS 
+BIBLIOGRÁFICAS
+ARIELY, Dan. Previsivelmente irracional: Como as situações do dia-a-dia influenciam nossas decisões?. 4 ed. Rio de Janeiro: Elsevier, 2008. 256 p.
+BENARTZI, Shlomo; LEHRER, Jonah. The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior. 1 ed. Estados Unidos: Portfolio, 2015. 256 p.
+BULLYING STATISTICS. Cyber bullying statistics. Disponível em: <www.bullyingstatistics.org/content/cyber-bullying-statistics.html>. Acesso em: 09 mai. 2019.
+BUSINESS INSIDER. Teens are obsessed with this one Snapchat score that can make or break friendships. Disponível em: <www.businessinsider.com/teens-are-obsessed-with-snap-streaks-on-snapchat-2016-12>. Acesso em: 09 mai. 2019.
+CANAL TECH. O que é e como usar o Duolingo. Disponível em: <www.canaltech.com.br/internet/O-que-e-e-como-usar-o-Duolingo>. Acesso em: 09 mai. 2019.
+CIRILLO, Francesco. The Pomodoro Technique: The Acclaimed Time-Management System that Has Transformed How We Work. 1 ed. Nova Iorque: Currency, 2018. 160 p.
+CÚLTURA ÁGIL. Kanban: do início ao fim!. Disponível em: <https://www.culturaagil.com.br/kanban-do-inicio-ao-fim/>. Acesso em: 09 mai. 2019. 
+DARKPATTERNS. What are dark patterns?. Disponível em: <www.darkpatterns.org>. Acesso em: 09 mai. 2019.
+DMR BUSINESS STATISTICS. 95 Amazing Android statistics and facts (2019) – By the number. Disponível em: <www.expandedramblings.com/
+index.php/android-statistics>. Acesso em: 09 mai. 2019.
+DQ INSTITUTE. Disponível em: <www.dqinstitute.org>. Acesso em: 09 mai. 2019.
+DUOLINGO. What is a streak?. Disponível em: <www.support.duolingo.com/hc/en-us/articles/204980880-What-is-a-streak->. Acesso em: 09 mai. 2019.
+DUOLINGO. Why you should keep up a streak. Disponível em: <www.duolingo.com/comment/5865479/Why-you-should-keep-up-a-streak>. Acesso em: 09 mai. 2019.
+ECONOMIA COMPORTAMENTAL. Econs e Humanos (Econs and Humans). Disponível em: <www.economiacomportamental.org/econs-e-humanos-
+econs-and-humans>. Acesso em: 09 mai. 2019.
+ECONOMIA COMPORTAMENTAL. Guia de Economia Comportamental e Experimental. Disponível em: <www.economiacomportamental.org/guia>. Acesso em: 09 mai. 2019.
+ESTRATEGISTAS. A ascensão da economia da atenção, por Isaac Lewis. Disponível em: <www.estrategistas.com/ascensao-economia-da-atencao>. Acesso em: 09 mai. 2019.
+EXAME. Um breve histórico da briga entre Facebook e Snapchat. Disponível em: <www.exame.abril.com.br/tecnologia/um-breve-historico-da-briga
+-entre-facebook-e-snapchat>. Acesso em: 09 mai. 2019.
+EYAL, Nir; HOOVER, Ryan. Hooked: How to Build Habit-Forming Products. 1 ed. Estados Unidos: Portfolio, 2014. 256 p.
+FOUNDATION TEAM. 37 Mind Blowing YouTube Statistics For B2B Marketers In 2019. Disponível em: <https://foundationinc.co/lab/youtube-statistics-
+b2b-marketers/>. Acesso em: 17 mai. 2019..
+G1. Facebook considera ter botão de ‘não curtir’, diz Zuckerberg. Disponível em: <www.g1.globo.com/tecnologia/noticia/2014/12/facebook-considera-ter-botao-de-nao-curtir-diz-zuckerberg.html>. Acesso em: 09 mai. 2019.
+GARDNER, Howard. Estruturas da mente: a teoria das inteligências múltiplas. 2 ed. Porto Alegre: Editora Penso, 1994. 340 p.
+GLAMOUR. Joy of missing out: entenda o que é JOMO, a alegria de não estar em todas. Disponível: <www.revistaglamour.globo.com/Lifestyle/Must-Share/noticia/2018/03/joy-missing-out-entenda-o-que-e-jomo-
+alegria-de-nao-estar-em-todas.html>. Acesso em: 09 mai. 2019.
+HUFFPOST BRASIL. A polêmica sobre paternidade e estereótipos que o vídeo das crianças ‘invadindo’ entrevista ao vivo gerou. Disponível em: <www.huffpostbrasil.com/2017/03/11/a-polemica-sobre-paternidade-e-estereotipos-que-o-video-das-cria_a_21879949>. Acesso em: 09 mai. 2019.
+INSTITUTO HUMANITAS UNISINOS. Os dilemas morais da Quarta Revolução Industrial. Disponível em: <www.ihu.unisinos.br/571796-os-dilemasmorais-da-quarta-revolucao-industrial>. Acesso em: 09 mai. 2019.
+KAHNEMAN, Daniel; LEITE, Cássio De Arantes. Rápido e devagar: Duas formas de pensar. 1 ed. Rio de Janeiro: Objetiva, 2012. 608 p.
+LINKEDIN. Escritor de “Nudge” ganha Nobel. Disponível em: <www.linkedin.com/pulse/escritor-de-nudge-ganha-nobel-fabio-pereira>. Acesso em: 09 mai. 2019.
+MCKINSEY, Global Institute. O futuro do mercado de trabalho: impacto em empregos, habilidades e salários. Disponível em: <https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages/pt-br>. Acesso em: 11 jun. 2019.
+MINDSET DIGITAL. The power of streaks. Disponível em: <www.mindsetdigital.com/snapchat-streaks-gamification/>. Acesso em: 09 mai. 2019.
+MORAL MACHINE. MIT, Máquina moral. Disponível em: <www.moralmachine.mit.edu/hl/pt>. Acesso em: 09 mai. 2019.
+MUKHERJEE, Siddhartha. O gene: Uma história íntima. 1 ed. São Paulo: Companhia das Letras, 2016. 680 p.
+NA PRÁTICA. Técnica Pomodoro: aprenda a gerenciar seu tempo para executar mais. Disponível em: <www.napratica.org.br/pomodoro>. Acesso em: 09 mai. 2019.
+NIR & FAR. Technology is Distracting and Addictive. Here’s how to fix it. Disponível em: <www.nirandfar.com/2017/04/deal-persuasive-technology-video.html>. Acesso em: 09 mai. 2019.
+NPJ LEARN COMMUNITY. Cognitive costs of the mere presence of smartphones. Disponível em: <www.npjscilearncommunity.nature.com/users/60608-kristen-duke/posts/19475-cognitive-costs-of-the-mere-presence-of-smartphones>. Acesso em: 09 mai. 2019.
+NVIDIA. What’s the difference between deep learning training and inference?. Disponível em: <www.blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai>. Acesso em: 09 mai. 2019.
+OFICINA DA NET. Amazon registra patente de entrega antecipada. Disponível em: <www.oficinadanet.com.br/post/12272-amazon-quer-enviar-
+o-produto-antes-de-voce-concretizar-a-compra>. Acesso em: 09 mai. 2019.
+OFICINA DA NET. O que é o Snapchat e como usar?. Disponível em: <www.oficinadanet.com.br/post/15802-o-que-e-o-snapchat-e-como-usar>. Acesso em: 09 mai. 2019.
+OLHAR DIGITAL. Inteligência Artificial julga se pessoa é culpada ou inocente pelo rosto. Disponível em: <www.olhardigital.uol.com.br/noticia/inteligencia-artificial-julga-se-pessoa-e-culpada-ou-inocente-pelo-rosto/64099>. Acesso em: 09 mai. 2019.
+PORTAL DO TRÂNSITO. Sono e cansaço representam 60% dos acidentes no país. Disponivel em: <www.portaldotransito.com.br/noticias/sono-e-cansaco-representam-60-dos-acidentes-no-pais-2>. Acesso em: 09 mai. 2019.
+QUIN TECH. Disponível em: <https://quintech.io/>. Acesso em: 15 mai. 2019.
+REUTERS. New Zealand passport robot tells applicant of Asian descent to open eyes. Disponível em: <www.reuters.com/article/us-newzealand-
+passport-error/new-zealand-passport-robot-tells-applicant-of-asian-descent-to-open-eyes-idUSKBN13W0RL>. Acesso em: 09 mai. 2019.
+SCHWAB, Klaus. A Quarta Revolução Industrial. 1 ed. São Paulo: Edipro, 2016. 160 p.
+SMART CAP. Disponível em: <www.smartcaptech.com>. Acesso em: fev. 2018.
+SNAPCHAT. Support Snapchat. Disponível em: <www.support.snapchat.com/pt-BR/a/Snaps-snapstreak>. Acesso em: 09 mai. 2019.
+STANFORD UNIVERSITY. VHIL - Virtual Human Interaction Lab. Disponível em: <https://vhil.stanford.edu/>. Acesso em: 09 mai. 2019.
+SULLER, John. The Online Disinhibition Effect. Disponível em: <www.liebertpub.com/doi/abs/10.1089/1094931041291295>. Acesso em: abr. 2019. 
+TECH CRUNCH. Google reportedly offered $30 billion to acquire Snapchat. Disponível em: <www.techcrunch.com/2017/08/03/google-buy-snap>. Acesso em: 09 mai. 2019.
+TECH CRUNCH. Why Is Facebook Page Reach Decreasing? More Competition and Limited Attention. Disponível em: <www.techcrunch.com/2014/04/03/the-filtered-feed-problem>. Acesso em: 09 mai. 2019.
+TECH TUDO. O que é FoMO? ‘Fear of missing out’ revela o medo de ficar por fora nas redes sociais. Disponível em: <www.techtudo.com.br/noticias/2017/05/o-que-e-fomo-fear-of-missing-out-revela-o-medo-deficar-por-fora-nas-redes-sociais.ghtml>. Acesso em: 09 mai. 2019.
+TECNOBLOG. Bem-estar digital: o que é e como ativar no Android 9 Pie. Disponível:<www.tecnoblog.net/260237/bem-estar-digital-android-pie>. Acesso em: 09 mai. 2019.
+TED. How I’m fighting bias in algorithms. Disponível em: <www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms>. Acesso em: 09 mai. 2019.
+TED. The jobs we’ll lose to machines – and the ones we won’t. Disponível em: <www.ted.com/talks/anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t>. Acesso em: 09 mai. 2019.
+THALER, Richard H.; SUNSTEIN, Cass R. Nudge: Improving Decisions About Health, Wealth, and Happiness. 1 ed. Estados Unidos: Penguin, 2009. 320 p.
+THALER, Richard H.; SUNSTEIN, Cass R. Nudge: O empurrão para a escolha certa. São Paulo: Elsevier, 2009. 280 p.
+THE MEDICAL FUTURIST. 5 Ways Medical Virtual Reality Is Already Changing Healthcare. Disponível em <www.medicalfuturist.com/5-ways-medical-vr-is-changing-healthcare>. Acesso em: 09 mai. 2019.
+TOLLE, Eckhart. O poder do agora: Um guia para a iluminação espiritual. Rio de Janeiro: Sextante, 2010. 224 p.
+UNCTV SCIENCE. How Many Daily Decisions Do We Make?. Disponível em: <http://science.unctv.org/content/reportersblog/choices>. Acesso em: 15 mai. 2019.
+UOL ECONOMIA. Facebook registra lucro líquido de US$ 15,9 bilhões em 2017, alta de 56%. Disponível em: <www.economia.uol.com.br/noticias/efe/
+2018/01/31/facebook-registra-lucro-liquido-de-us-159-bilhoes-em-2017-alta-de-56.htm>. Acesso em: 09 mai. 2019.
+UOL EDUCAÇÃO. Vírus - Estrutura e ciclos virais. Disponível em: <https://educacao.uol.com.br/disciplinas/biologia/virus-estrutura-e-ciclos-
+virais.htm?cmpid=copiaecola>. Acesso em: 15 mai. 2019.
+UOL NOTÍCIAS. Você vai falar com os eletrônicos da sua casa, e quem vai responder é Alexa. Disponível em: <www.noticias.uol.com.br/tecnologia/noticias/redacao/2017/01/09/voce-sabe-o-que-e-alexa-assistente-pessoal-pode-invadir-sua-vida-em-breve.htm>. Acesso em: 09 mai. 2019.
+UOL. Tecnologia – O que é a 4ª revolução industrial?. Disponível em: <https://vestibular.uol.com.br/resumo-das-disciplinas/atualidades/tecnologia-o-que-e-a-4-revolucao-industrial.htm>. Acesso em: 09 mai. 2019.
+UPLOAD. How virtual reality can be used to fight racism and prejudice in society. Disponível em: <www.uploadvr.com/vr-fight-racism-prejudice>. Acesso em: 09 mai. 2019.
+WANSINK, Brian; SOBAL, Jeffrey. Mindless eating: the 200 daily food decisions we overlook, Environment and Behavior. Nova Iorque: Bantam Books, 2007.
+WASHINGTON POST. Transcript of Mark Zuckerberg’s Senate hearing. Disponível em: <www.washingtonpost.com/news/the-switch/wp/2018/
+04/10/transcript-of-mark-zuckerbergs-senate-hearing/?utm_term=.9c4720b85f61>. Acesso em: 09 mai. 2019.
+YOUTUBE. Simon Sinek on millennials in the workplace. Disponível em: <www.youtube.com/watch?v=hER0Qp6QJNU>. Acesso em: 09 mai. 2019..
+________________
+[1]        Isso ocorreu na Orquestra Filarmônica di Lucca, em 2017. Disponível em: <www.nature.com/news/reboot-for-the-ai-revolution-1.22826>. Acesso em: 04 mai. 2019.
+
+
+[2]        BUSINESS INSIDER. It's official: The Pokémon Go craze has a big impact on Americans’ physical activity. Disponível em: <https://www.businessinsider.com/pokemon-go-physical-effect-scientific-study-microsoft-stanford-2016-10>. Acesso em: 15 mai. 2019.
+[3]        Baseado em: Psiconlinews.com, Taiz Souza, A Teoria das Inteligências Múltiplas de Gardner, 2015. Disponível em: <www.psiconlinews.com/2015/05/teoria-das-inteligencias-multiplas-de-gardner.html> Acesso em: 04 mai. 2019.
+
+
+[4]        Filme Fome de poder (The Founder), Direção: John Lee Hancock. Produção: Jeremy Renner. Weinstein Company, 2016.
+
+
+[5]        Vídeo Tapa na Pantera (2006). Disponível em: <https://www.youtube.com/watch?v=6rMloi
+FmSbw>. Acesso em: 05 mai. 2019.
+
+
+[6]         Support.duolingo.com, What is a streak?, 2017. Disponível em: <https://support.duolingo.com/hc/en-us/articles/204980880-What-is-a-streak->. Acesso em: 05 mai. 2019.
+
+
+[7]        DARK PARTTERNS. What are dark patterns?. Disponível em: <https://www.darkpatterns.org/>. Acesso em: 05 mai. 2019.
+
+
+[8]        Conheça mais em: <https://quintech.io/>. Acesso em: 15 mai. 2019.
+
+
+[9]        Disponível em: <https://www.youtube.com/watch?v=0M7679g1BEw>. Acesso em: 05 mai. 2019.
+
+
+[10]        Disponível em: <https://www.allaccess.com/merge/archive/29580/2019-this-is-what-happens-in-an-internet-minute>. Acesso em: 05 mai. 2019.
+
+
+[11]        WIKIPEDIA. Assédio virtual. Disponível em: <https://pt.wikipedia.org/wiki/ass%c3%
+a9dio_virtual>. Acesso em: 05 mai. 2019.
+
+
+[12]        THINK BEFORE YOU TYPE. Fighting cyberbullying. Disponível em: <https://www.thinkbeforeyoutypeinc.org/>. Acesso em: 05 mai. 2019.
+
+
+[13]        Disponível em: <www.youtube.com/watch?v=bC7edeMKWTE>. Acesso em: 06 mai. 2019.
+
+
+[14]        Disponível em: <www.blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-
+        training-inference-ai>. Acesso em: 06 mai. 2019.
+
+
+[15]        JOY BUOLAMWINI. How I'm fighting bias in algorithms. Disponível em: <https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms>. Acesso em: 06 mai. 2019
+
+
+[16]        REUTERS. New zealand passport robot tells applicant of asian descent to open eyes. Disponível em: <https://www.reuters.com/article/us-newzealand-passport-error/new-zealand
+-passport-robot-tells-applicant-of-asian-descent-to-open-eyes-iduskbn13w0rl>. Acesso em: 06 mai. 2019.
+
+
+[17]        Dados de uma matéria de 2014 disponível em: <https://www.christophertitmussblog.org/eckhart-tolle-is-on-the-rich-mans-list-is-this-the-price-of-enlightenment>. Acesso em: 15 mai. 2019.
+
+
+[18]        Conheça mais em: <https://humanetech.com/>. Acesso em: 15 mai. 2019.
+
+
+[19]        Agradeço à Luísa Flores Somavilla pela tradução do artigo original!
+
+
+[20]        Os dilemas morais da Quarta Revolução Industrial. Disponível em: <http://www.ihu.unisinos.br/78-noticias/571796-os-dilemas-morais-da-quarta-revolucao-industrial>. Acesso em: abr. 2019.
+
+
+[a]@annabeatriztelmo@gmail.com aqui eu falo de FOMO e JOMO, pode pegar uma parte do texto pra gerar a legenda do post
+_Assigned to annabeatriztelmo@gmail.com_
