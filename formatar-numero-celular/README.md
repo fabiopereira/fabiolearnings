@@ -3,6 +3,7 @@
 
 ## Install
 ```bash
-pip install phonenumbers
-pip install pandas
+pip3 install phonenumbers
+pip3 install Pyarrow
+pip3 install pandas
 ```
