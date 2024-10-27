@@ -3,7 +3,7 @@
 
 import assemblyai as aai
 
-aai.settings.api_key = "b763dbda2a84471ea602ef8f504962a6"
+aai.settings.api_key = "MY KEY"
 transcriber = aai.Transcriber()
 
 # transcript = transcriber.transcribe("https://storage.googleapis.com/aai-web-samples/news.mp4")
