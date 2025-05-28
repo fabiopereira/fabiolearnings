@@ -1,5 +1,3 @@
-# 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
-
 # !pip install gradio
 # !pip install groq
 # !pip install numpy
