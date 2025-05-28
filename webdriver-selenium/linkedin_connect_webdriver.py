@@ -128,5 +128,3 @@ linkedin = LinkedIn(driver)
 linkedin.login()
 linkedin.connect('https://www.linkedin.com/in/brunoperissotti/')
 driver.quit()
-
-

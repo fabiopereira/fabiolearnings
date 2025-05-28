@@ -5,7 +5,7 @@ grep -v "joined" wagrupobuque1_21Out.txt | grep -v "Fabio Nudge Pereira" | grep 
 
 Só quem enviou imagem no grupo 
 
-grep -v "joined" TT1.txt | grep -E "image omitted|votei|received a view once message" | grep -v "Fabio Nudge Pereira" | grep -v "SorteioTBS" | grep -v "Regiane Martins Amor" | sed 's/^[‎]//' | grep '^\[' | sed 's/\[[^]]*\]//g' | sed 's/^[ ~]*//' | sed 's/:.*//' | sed 's/^[ ~]*//' | sed 's/\[[^]]*\]//g' | sed 's/\[[^]]*\]//g' | sed 's/^[ ~]*//' | sed 's/^[ ~]*//' | sed 's/.\~ //' | sed 's/^ ~ //' | sed 's/^ ~ //' | sed 's/.\~ //' | sed 's/.*~[  ]//' |  sed 's/^[ ]//' | sort | uniq
+grep -v "joined" chat_sorteiotbs_ibm.txt | grep -E "image omitted|votei|received a view once message" | grep -v "Fabio Nudge Pereira" | grep -v "SorteioTBS" | grep -v "Regiane Martins Amor" | sed 's/^[‎]//' | grep '^\[' | sed 's/\[[^]]*\]//g' | sed 's/^[ ~]*//' | sed 's/:.*//' | sed 's/^[ ~]*//' | sed 's/\[[^]]*\]//g' | sed 's/\[[^]]*\]//g' | sed 's/^[ ~]*//' | sed 's/^[ ~]*//' | sed 's/.\~ //' | sed 's/^ ~ //' | sed 's/^ ~ //' | sed 's/.\~ //' | sed 's/.*~[  ]//' |  sed 's/^[ ]//' | sort | uniq > resultado_chat_sorteiotbs_ibm.txt
 
 
 grep -v "joined" wagrupobuque1_21Out.txt | grep "image omitted|received a view once message"
