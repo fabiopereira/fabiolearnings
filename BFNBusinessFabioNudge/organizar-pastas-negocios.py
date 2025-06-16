@@ -66,11 +66,39 @@ def validar_inconsistencias(negocios_pipedrive_arquivo, diretorio_base, negocios
 
 
 
+def encontrar_arquivo_CSV_mais_recente(diretorio, filtro_extensao=None):
+    arquivos = []
+
+    # Listar todos os arquivos no diretório
+    for nome_arquivo in os.listdir(diretorio):
+        caminho_arquivo = os.path.join(diretorio, nome_arquivo)
+        
+        # Filtrar apenas arquivos (não pastas)
+        if os.path.isfile(caminho_arquivo):
+            # Se houver filtro por extensão, aplica o filtro
+            if filtro_extensao:
+                if nome_arquivo.startswith(filtro_extensao) and nome_arquivo.endswith(".csv"):
+                    arquivos.append(caminho_arquivo)
+            else:
+                arquivos.append(caminho_arquivo)
+
+    if not arquivos:
+        print("🛑🛑🛑 Nenhum arquivo encontrado com o filtro especificado.")
+        return None
+
+    # Ordenar os arquivos pela data de modificação (do mais antigo para o mais recente)
+    arquivos.sort(key=lambda x: os.path.getmtime(x))
+
+    # Retornar o mais recente
+    return arquivos[-1]
+
 if __name__ == "__main__":
     # Exemplo de uso
     diretorio_base = "/Users/fabiopereira/Library/CloudStorage/GoogleDrive-fabiopereira.me@gmail.com/My Drive/NCD Equipe Fabio Nudge - Estagio e Outros/🎤💰🛎️ BFN Business Fabio Nudge/Negocios/🛎️Pipe/🛎️ 2025 Pipe Negocios"
-    negocios_pipedrive_arquivo = "/Users/fabiopereira/Downloads/deals-21241211-23.csv"
-    negocios_sheet_arquivo = "/Users/fabiopereira/Downloads/NegociosSheet3Jun2025.csv"
+    negocios_pipedrive_arquivo = encontrar_arquivo_CSV_mais_recente("/Users/fabiopereira/Downloads", "deals-")
+    print(f"📂 Processando arquivo mais recente: {negocios_pipedrive_arquivo}")
+    negocios_sheet_arquivo = encontrar_arquivo_CSV_mais_recente("/Users/fabiopereira/Downloads", "Negócios BFN Business Fabio Nudge")
+    print(f"📂 Processando arquivo mais recente: {negocios_sheet_arquivo}")
     print("----------- Processando Pastas dos Negócios -----------")
     processar_pastas(negocios_pipedrive_arquivo, diretorio_base)
     print("----------- Validando Inconsistências -----------")
