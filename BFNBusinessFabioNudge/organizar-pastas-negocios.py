@@ -158,7 +158,7 @@ def validar_que_negocios_tem_save_na_agenda(negocios_pipedrive_arquivo, arquivo_
                     print(f"⚠️  Negócio '{titulo_negocio}' com etapa '{etapa}'")
 
     # Ler os negócios do PipeDrive
-    print(f"--------- Negócios que  precisam ter uma confirmação ✅🎤 na agenda e não tem.")
+    print(f"--------- Negócios que  precisam ter confirmação ✅🎤 e 🎤📦🔴 ENTREGA na agenda e não tem.")
     with open(negocios_pipedrive_arquivo, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -174,13 +174,29 @@ def validar_que_negocios_tem_save_na_agenda(negocios_pipedrive_arquivo, arquivo_
                 if not encontrou_check:
                     print(f"⚠️  Negócio '{titulo_negocio}' com etapa '{etapa}' precisa de ✅🎤 na agenda e não tem")
 
-                encontrou_entrega = any(
-                    titulo == f"🎤📦🔴 ENTREGA {titulo_negocio}" or titulo == f"🎤📦🔴ENTREGA {titulo_negocio}"
-                    for titulo in titulos_eventos
+                # Só exige ENTREGA se houver um ✅🎤 no presente ou futuro
+                hoje = date.today()
+                evento_check = next(
+                    (
+                        e for e in agenda 
+                        if e.titulo in [
+                            f"✅🎤 {titulo_negocio}",
+                            f"✅🎤 Palestra {titulo_negocio}",
+                            f"✅🎤Palestra {titulo_negocio}"
+                        ]
+                    ), None
                 )
 
-                # if not encontrou_entrega:
-                    # print(f"⚠️  Negócio '{titulo_negocio}' com etapa '{etapa}' precisa de 🎤📦🔴 ENTREGA na agenda e não tem")
+                if evento_check and evento_check.inicio() and evento_check.inicio() >= hoje:
+                    encontrou_entrega = any(
+                        e.titulo in [
+                            f"🎤📦🔴 ENTREGA {titulo_negocio}",
+                            f"🎤📦🔴ENTREGA {titulo_negocio}"
+                        ]
+                        for e in agenda
+                    )
+                    if not encontrou_entrega:
+                        print(f"⚠️  Tem ✅🎤 mas NÃO tem '🎤📦🔴 ENTREGA {titulo_negocio}' com etapa '{etapa}'")
 
 
 
